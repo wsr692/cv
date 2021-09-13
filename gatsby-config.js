@@ -22,7 +22,14 @@ module.exports = {
         when: "2018-2021",
         school: "Korea University",
         where: "Seoul, South Korea",
-        moreInfo: `write`,
+        moreInfo: `Data-based approaches to improving TTS pronunciation accuracies 
+        <p>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</p>
+        <ul>
+        <li>Selected speech data based on their phone-based accuracies measured by DNN-HMM acoustic model</li>
+        <li>Trained character & phone based end-to-end English TTS (Tacotron2 + Waveglow) with the selected data</li>
+        <li>Result: TTS models trained with high-accuracy & smaller data subsets, generated clearer speech than unfiltered & larger datasets,</li>
+         </ul>
+        `,
       },
       {
         degree: "M.A.",
