@@ -22,9 +22,7 @@ module.exports = {
         when: "2018-2021",
         school: "Korea University",
         where: "Seoul, South Korea",
-        moreInfo: `<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        See my thesis <a href="#">here</a>.</p>`,
+        moreInfo: `write`,
       },
       {
         degree: "M.A.",
@@ -32,8 +30,7 @@ module.exports = {
         when: "2015-2018",
         school: "Korea University",
         where: "Seoul, South Korea",
-        moreInfo: `"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-        totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."`,
+        moreInfo: `write`,
       },
       {
         degree: "B.A.",
@@ -41,7 +38,7 @@ module.exports = {
         when: "2009-2013",
         school: "Colgate University",
         where: "New York, USA",
-        moreInfo: `<p>I finally found out how it feels like to live in LA; it was awesome!</p>`,
+        moreInfo: `<p>write</p>`,
       },
       {
         degree: "High School Diploma",
@@ -56,10 +53,7 @@ module.exports = {
         when: "2019.6 - Present",
         company: "Mediazen",
         where: "Seoul, South Korea",
-        moreInfo: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`,
+        moreInfo: `write`,
       },
       {
         role: "Technical Localization, Freelancer",
@@ -72,23 +66,19 @@ module.exports = {
     skills: [
       {
         name: "Python",
-        level: "85",
         experience: "5 years",
       },
       {
         name: "Tensorflow/PyTorch",
-        level: "75",
         experience: "2 years",
       },
 
       {
         name: "Linux",
-        level: "100",
         experience: "4 years",
       },
       {
         name: "C++",
-        level: "40",
         experience: "1 years",
       },
     ],
