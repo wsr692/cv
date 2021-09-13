@@ -78,6 +78,11 @@ module.exports = {
       },
     ],
     skills: [
+      {
+        name: "Tensorflow/PyTorch",
+        level: "75",
+        experience: "2 years",
+      }
 
     ],
     interests: [
