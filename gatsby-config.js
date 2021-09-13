@@ -2,15 +2,15 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     siteUrl: `https://yscho.netlify.app`,
-    name: `Youngsun Cho`,
+    name: `ysc`,
     role: `Speech Scientist`,
-    email: `yscatwork@gmail.com`,
+    email: `ysc@gmail.com`,
     socialMedia: [
       {
         name: "github",
-        link: "https://github.com/wsr692",
+        link: "",
       },
-      { name: "linkedin", link: "https://www.linkedin.com/in/youngsun-cho-13961a118/" },
+      { name: "linkedin", link: "" },
     ],
     about: `
       <p> write <p>See the PDF version of my resume <a href="#">here</a>.</p>
