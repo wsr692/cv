@@ -1,19 +1,16 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    siteUrl: `https://gatsby-starter-clean-resume.netlify.com/`,
-    name: `Luke Skywalker`,
-    role: `Software Developer`,
-    email: `luke@thelightside.com`,
+    siteUrl: `https://yscho.netlify.app`,
+    name: `Youngsun Cho`,
+    role: `Speech Scientist`,
+    email: `yscatwork@gmail.com`,
     socialMedia: [
       {
         name: "github",
-        link: "https://github.com/masoudkarimif/gatsby-starter-clean-resume",
+        link: "https://github.com/wsr692",
       },
-      { name: "linkedin", link: "https://linkedin.com" },
-      { name: "facebook", link: "https://facebook.com" },
-      { name: "twitter", link: "https://twitter.com" },
-      { name: "instagram", link: "https://instagram.com" },
+      { name: "linkedin", link: "https://www.linkedin.com/in/youngsun-cho-13961a118/" },
     ],
     about: `
       <p>The son of Jedi Knight Anakin Skywalker and Senator Padmé Amidala,
@@ -39,81 +36,72 @@ module.exports = {
     education: [
       {
         degree: "Ph.D.",
-        major: "Computer Science",
-        when: "2014-2018",
-        school: "Harvard University",
-        where: "Cambridge, MA",
+        major: "Linguistics (Phonetics)",
+        when: "2018-2021",
+        school: "Korea University",
+        where: "Seoul, South Korea",
         moreInfo: `<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         See my thesis <a href="#">here</a>.</p>`,
       },
       {
-        degree: "M.Sc.",
-        major: "Software Engineering",
-        when: "2012-2014",
-        school: "Stanford University",
-        where: "Stanford, CA",
+        degree: "M.A.",
+        major: "Linguistics (Phonetics)",
+        when: "2015-2018",
+        school: "Korea University",
+        where: "Seoul, South Korea",
         moreInfo: `"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
         totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."`,
       },
       {
-        degree: "B.Sc.",
-        major: "Computer Engineering",
-        when: "2008-2012",
-        school: "UCLA",
-        where: "Los Angeles, CA",
+        degree: "B.A.",
+        major: "Neuroscience (minor in Linguistics)",
+        when: "2009-2013",
+        school: "Colgate University",
+        where: "New York, USA",
         moreInfo: `<p>I finally found out how it feels like to live in LA; it was awesome!</p>`,
       },
       {
         degree: "High School Diploma",
-        when: "2000-2008",
-        school: "Awesome High School",
-        where: "Los Angeles, CA",
+        when: "2006-2009",
+        school: "Ewha Foreign Language High School",
+        where: "Seoul, South Korea",
       },
     ],
     experience: [
       {
-        role: "Software Developer",
-        when: "2014-Present",
-        company: "Facebook",
-        where: "Menlo Park, CA",
+        role: "Speech Research Engineer",
+        when: "2019.6 - Present",
+        company: "Mediazen",
+        where: "Seoul, South Korea",
         moreInfo: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`,
       },
       {
-        role: "Web Developer",
-        when: "2010-2014",
-        company: "Amazon",
-        where: "Vancouver, BC",
+        role: "Technical Localization, Freelancer",
+        when: "2015-2019",
+        company: "LINE plus corp.",
+        where: "Seongnam, South Korea",
         moreInfo: `See my <a href="#" target="_blank" rel="noopener noreferrer">work</a>.`,
       },
     ],
     skills: [
       {
-        name: "JavaScript",
+        name: "Python",
         level: "85",
         experience: "5 years",
       },
       {
-        name: "Python",
+        name: "Tensorflow/PyTorch",
         level: "75",
         experience: "2 years",
       },
-      {
-        name: "Java",
-        level: "65",
-        experience: "2 years",
-      },
-      {
-        name: "React",
-        level: "75",
-        experience: "1 years",
-      },
+
       {
         name: "Linux",
-        level: "75",
+        level: "100",
         experience: "4 years",
       },
       {
@@ -123,11 +111,9 @@ module.exports = {
       },
     ],
     interests: [
-      "Reading",
+      "Speech",
       "Programming",
-      "Playing the violin",
-      "Running",
-      "Watching Monty Python and the Holy Grail",
+      "Soccer",
     ],
     //available_themes: ["great-gatsby", "master-yoda", "wonder-woman", "darth-vader", "luke-lightsaber"],
     theme: "great-gatsby",
