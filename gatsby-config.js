@@ -53,7 +53,7 @@ module.exports = {
         when: "2019.6 - Present",
         company: "Mediazen",
         where: "Seoul, South Korea",
-        moreInfo: `write`,
+        moreInfo: `<p></p>`,
       },
       {
         role: "Technical Localization, Freelancer",
@@ -64,27 +64,7 @@ module.exports = {
       },
     ],
     skills: [
-      {
-        name: "Python",
-        level: "85",
-        experience: "5 years",
-      },
-      {
-        name: "Tensorflow/PyTorch",
-        level: "75",
-        experience: "2 years",
-      },
 
-      {
-        name: "Linux",
-        level: "100",
-        experience: "4 years",
-      },
-      {
-        name: "C++",
-        level: "40",
-        experience: "1 years",
-      },
     ],
     interests: [
       "Speech",
