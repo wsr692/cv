@@ -53,7 +53,14 @@ module.exports = {
         when: "2019.6 - Present",
         company: "Mediazen",
         where: "Seoul, South Korea",
-        moreInfo: `<p></p>`,
+        moreInfo: `<p>Automatic Speech Recognition for subway ticketing machines</p>
+        <p> Model and develop of multi-lingual (EN,KR,JP,CH) speech-based ticketing system for a subway line that transports 100 million passengers per year)</p>
+        <p> Training and deploying noise-robust ASR models (DNN-HMM hybrid acoustic models + FST-based language models) that meet client accuracy standards (90% for 3-best results)  </p>
+        <p> Develop Keyword Extraction modules from STT results</p>
+        <p> Voice Cloning-based speech data generation for ASR and wake-word modelling</p>
+        <p> A web-based multi-worker speech data annotation system built to endure 1000+ simultaneous connections. </p>
+        `,
+
       },
       {
         role: "Technical Localization, Freelancer",
