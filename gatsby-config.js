@@ -66,19 +66,23 @@ module.exports = {
     skills: [
       {
         name: "Python",
+        level: "85",
         experience: "5 years",
       },
       {
         name: "Tensorflow/PyTorch",
+        level: "75",
         experience: "2 years",
       },
 
       {
         name: "Linux",
+        level: "100",
         experience: "4 years",
       },
       {
         name: "C++",
+        level: "40",
         experience: "1 years",
       },
     ],
