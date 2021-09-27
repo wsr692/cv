@@ -68,8 +68,8 @@ module.exports = {
         company: "Mediazen",
         where: "Seoul, South Korea",
         moreInfo: `<p>
-        <>
-        Implemented Transformer-based TTS (Fastspeech) for Korean and English<br> 
+        • Text-to-Speech
+        Implemented Transformer-based TTS (Fastspeech) for Korean and English and
         experimented with various frame-wise annotation schemes on training data.<br>
         – Pre-processed text into phoneme sequences using both custom and open-sourced G2P systems.<br>
         – Pre-processed various types of audio data using signal processing and forced-alignment.<br>
@@ -77,8 +77,7 @@ module.exports = {
         • Speech Recognition
         – Built domain-adapted FST models for AI-assisted contact centers in shopping, foods and hospitality industries. – Built rule-based, light-weight FST models for ASR in subway ticketing kiosks.
         – Trained DNN-HMM acoustic models that are robust to various indoor and outdoor noises.</p>
-        
-
+  
 
         <ul>
         Voice Command System for Subway Ticketing Kiosks, Project Lead Sep. 2020 - Present
