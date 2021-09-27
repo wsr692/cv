@@ -83,6 +83,9 @@ module.exports = {
         `<ul style="text-indent:-20px; margin-left:20px;">
         Project Lead,<b> <em>Voice Command System for Subway Ticketing Kiosks</em></b>
 
+          <iframe width="420" height="345" src="https://www.youtube.com/embed/O2x_DU9-14E?start=49&end=71">
+</iframe>
+
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 m. passengers.</li>
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Monitor user logs, update ASR models to maintain recognition accuracy at 90%.</li>
