@@ -14,7 +14,7 @@ module.exports = {
       { name: "linkedin", link: "" },
     ],
     about: `
-      <p> write <p>See the PDF version of my resume <a href="#">here</a>.</p>
+      <p> Speech scientist, AI engineer and data enthusiast with 2.5+ years of experience in commercial TTS and ASR; Equipped with both technical and academic knowledge to build, analyze and improve state-of-the-art speech technologies.</p>
       `,
     education: [
       {
