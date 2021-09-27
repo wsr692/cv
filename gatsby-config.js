@@ -65,8 +65,8 @@ module.exports = {
         when: "2009-2013",
         school: "Colgate University",
         where: "New York, USA",
-        moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year merit-based scholarship</p>
-         "Alumni Memorial Scholars Fellowship Research - A Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China"`,
+        moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year academic scholarship</p>
+        Alumni Memorial Scholar Fellowship Research : Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China"`,
       
         //  "Hand Gestures and Head Nods Assist in L2 Production of Mandarin Tones"
         //  Cho, Y., Zheng, A., Kelly, S., Hirata, Y., Colgate University
