@@ -61,23 +61,31 @@ module.exports = {
         • Speech Recognition
         – Built domain-adapted FST models for AI-assisted contact centers in shopping, foods and hospitality industries. – Built rule-based, light-weight FST models for ASR in subway ticketing kiosks.
         – Trained DNN-HMM acoustic models that are robust to various indoor and outdoor noises.
-        PROJECTS
+        
+        <ul>
         Data-Efficient TTS, Doctoral Research Apr. 2020 - Present
-        • Improved training convergence and clarity of end-to-end TTS by training on data selected by phone posteriors derived
-        from speech recognition.
-        • Created 30+ voices of native and various non-native English speakers, using as little as 20 mins of selected speech data.
-        • Demonstrated phone-posteriors are effective for selecting quality TTS data for both standard and non-standard pro-
-        nunciations.
+        <li>Improved training convergence and clarity of end-to-end TTS by training on data selected by phone posteriors derived
+        from speech recognition.</li>
+        <li>Created 30+ voices of native and various non-native English speakers, using as little as 20 mins of selected speech data.</li>
+        <li>Demonstrated phone-posteriors are effective for selecting quality TTS data for both standard and non-standard pro-
+        nunciations.</li>
+        </ul>
+
+        <ul>
         Voice Command System for Subway Ticketing Kiosks, Project Lead Sep. 2020 - Present
-        • Led development of multi-lingual (English, Korean, Japanese and Mandarin Chinese) voice command based system for
-        an airport express annually servicing over 100 million passengers.
-        • Translated client needs into engineering tasks and guided the client over various technical details.
-        • Monitored user logs to constantly update ASR models to maintain recognition accuracy at 90%.
+        <li>Led development of multi-lingual (English, Korean, Japanese and Mandarin Chinese) voice command based system for
+        an airport express annually servicing over 100 million passengers.</li>
+        <li>Translated client needs into engineering tasks and guided the client over various technical details.</li>
+        <li>Monitored user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
+        </ul>
+
+        <ul>
         Web-based Multi-Worker Speech Annotation System, Project Lead Jan. 2018 - Present
-        • Facilitated speech data pipeline by developing a web application that for real-time task assignment, automated rule
-        application, editor feedback and monitoring of annotation workers.
-        • Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
-        worker connections and providing dashboards for real-time monitoring of annotation progress and quality.`
+        <li>Facilitated speech data pipeline by developing a web application that for real-time task assignment, automated rule
+        application, editor feedback and monitoring of annotation workers.</li>
+        <li>Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
+        worker connections and providing dashboards for real-time monitoring of annotation progress and quality.</li>
+        </ul>`
         
         // moreInfo: `<p>Automatic Speech Recognition for subway ticketing machines</p>
         // <p> Model and develop multi-lingual (EN,KR,JP,CH) speech-based ticketing system for a subway line that transports 100 million passengers per year)</p>
