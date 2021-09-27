@@ -2,6 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import Item from "../components/item"
 import { useStaticQuery, graphql } from "gatsby"
+import Video from "../components/video"
 
 export default props => {
   const data = useStaticQuery(graphql`
@@ -36,6 +37,7 @@ export default props => {
       pageDescription="Learn more about my experience"
     >
       {experience}
+      <Video videoSrcURL={'https://youtu.be/O2x_DU9-14E?t=34'} videoTitle={'test'}/>
     </Layout>
   )
 }
