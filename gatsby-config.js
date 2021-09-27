@@ -74,7 +74,6 @@ module.exports = {
         company: "Mediazen",
         where: "Seoul, South Korea",
         moreInfo: 
-        ,
 
       },
       {
