@@ -61,7 +61,7 @@ module.exports = {
         company: "Mediazen",
         where: "Seoul, South Korea",
         moreInfo: `<p>Automatic Speech Recognition for subway ticketing machines</p>
-        <p> Model and develop of multi-lingual (EN,KR,JP,CH) speech-based ticketing system for a subway line that transports 100 million passengers per year)</p>
+        <p> Model and develop multi-lingual (EN,KR,JP,CH) speech-based ticketing system for a subway line that transports 100 million passengers per year)</p>
         <p> Training and deploying noise-robust ASR models (DNN-HMM hybrid acoustic models + FST-based language models) that meet client accuracy standards (90% for 3-best results)  </p>
         <p> Develop Keyword Extraction modules from STT results</p>
         <p> Voice Cloning-based speech data generation for ASR and wake-word modelling</p>
@@ -70,10 +70,24 @@ module.exports = {
 
       },
       {
-        role: "Technical Localization, Freelancer",
+        role: "MATLAB Teaching Assistant",
+        when: "2016.12",
+        company: "Korea University",
+        where: "Seoul, South Korea",
+        moreInfo: `Taught MATLAB programming and basics of digital signal processing to undergraduate students.`,
+      },
+      {
+        role: "Technical Writing, Freelancer",
         when: "2015-2019",
         company: "LINE plus corp.",
         where: "Seongnam, South Korea",
+        moreInfo: `See my <a href="#" target="_blank" rel="noopener noreferrer">work</a>.`,
+      },
+      {
+        role: "Technical Localization",
+        when: "2013.9-2014.5",
+        company: "Lionbridge Technokogies",
+        where: "Seoul, South Korea",
         moreInfo: `See my <a href="#" target="_blank" rel="noopener noreferrer">work</a>.`,
       },
     ],
