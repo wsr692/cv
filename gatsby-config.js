@@ -75,7 +75,7 @@ module.exports = {
 
         <ul>
         Project Lead, <em>Voice Command System for Subway Ticketing Kiosks</em>
-        <li style="line-height: 20px; list-style-type: disc;list-style-position: inside;text-indent: 3em; padding-left: 1em;">Led development of multi-lingual (English, Korean, Japanese and Mandarin Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
+        <li style="line-height: 20px;list-style-position: inside;text-indent: 3em;">Led development of multi-lingual (English, Korean, Japanese and Mandarin Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
 
         <li>Translated client needs into engineering tasks and guided the client over various technical details.</li>
         <li>Monitored user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
