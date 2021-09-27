@@ -82,16 +82,16 @@ module.exports = {
 
         `<ul style="text-indent:-20px; margin-left:20px;">
         Project Lead,<b> <em>Voice Command System for Subway Ticketing Kiosks</em></b>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Lead development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Monitor user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Lead development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Monitor user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
 
         <ul style="text-indent:-20px; margin-left:20px;">
         Project Lead, <b><em>Web-based Multi-Worker Speech Annotation System</em></b>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Facilitated speech data pipeline by developing a web application for real-time task assignment, automated rule
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Facilitated speech data pipeline by developing a web application for real-time task assignment, automated rule
         application, editor feedback and monitoring of annotation workers.</li>
-        <li style="list-style-position:inside;margin-bottom:10px;  text-indent: 20px;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
+        <li style="list-style-position:inside;margin-bottom:10px;  text-indent: 10px;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
         worker connections and providing dashboards for real-time monitoring of annotation progress and quality.</li>
         </ul>`
               },
