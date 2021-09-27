@@ -21,8 +21,8 @@ module.exports = {
         degree: "Ph.D.",
         major: "Linguistics (Phonetics)",
         when: "2018-2021",
-        school: "Korea University",
-        where: "Seoul, South Korea",
+        school: "Korea University,Seoul, South Korea",
+        where: "",
         moreInfo: `<b>Data-Efficient TTS</b>
         <p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
         <ul>
@@ -52,8 +52,8 @@ module.exports = {
         degree: "M.A.",
         major: "Linguistics (Phonetics)",
         when: "2015-2018",
-        school: "Korea University",
-        where: "Seoul, South Korea",
+        school: "Korea University,Seoul, South Korea",
+        where: "",
         moreInfo: `<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>
         <ul><em>Publications</em>
           You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., Nam, H. (2016). Development of articulatory estimation model using deep neural network. Phonetics and Speech Sciences, 8(3), 31–38. https://doi.org/10.13064/ksss.2016.8.3.031
@@ -63,8 +63,8 @@ module.exports = {
         degree: "B.A.",
         major: "Neuroscience (minor in Linguistics)",
         when: "2009-2013",
-        school: "Colgate University",
-        where: "New York, USA",
+        school: "Colgate University, New York, USA",
+        where: "",
         moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year academic scholarship</p>
         Alumni Memorial Scholar Fellowship Research : Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China"`,
       
