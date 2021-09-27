@@ -54,7 +54,7 @@ module.exports = {
         when: "2015-2018",
         school: "Korea University",
         where: "Seoul, South Korea",
-        moreInfo: `Thesis: Speaker Adaptation for Robust Speech Recognition
+        moreInfo: `<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>
         <ul><em>Publications</em>
           You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., Nam, H. (2016). Development of articulatory estimation model using deep neural network. Phonetics and Speech Sciences, 8(3), 31–38. https://doi.org/10.13064/ksss.2016.8.3.031
         </ul>`
