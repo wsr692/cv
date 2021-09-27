@@ -69,16 +69,16 @@ module.exports = {
         where: "Seoul, South Korea",
         moreInfo: `
 
-        <ul style="list-style-position:inside; text-indent: -20px;margin-left: 20px;">
-        Project Lead, <em>Voice Command System for Subway Ticketing Kiosks</em>
-        <li style="line-height: 20px;list-style-position: inside;text-indent: 3em;">Led development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
+        <ul style="list-style-position:inside; text-indent: 20px;margin-left: 20px;">
+        Project Lead,<b> <em>Voice Command System for Subway Ticketing Kiosks</em></b>
+        <li>Led development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
 
         <li>Translated client needs into engineering tasks and guided the client over various technical details.</li>
         <li>Monitored user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
 
-        <ul>
-        Project Lead, <em>Web-based Multi-Worker Speech Annotation System</em>
+        <ul style="list-style-position:inside; text-indent: 20px;margin-left: 20px;">
+        Project Lead, <b><em>Web-based Multi-Worker Speech Annotation System</em></b>
         <li>Facilitated speech data pipeline by developing a web application for real-time task assignment, automated rule
         application, editor feedback and monitoring of annotation workers.</li>
         <li>Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
