@@ -82,9 +82,26 @@ module.exports = {
 
         `<ul style="text-indent:-20px; margin-left:20px;">
         Project Lead,<b> <em>Voice Command System for Subway Ticketing Kiosks</em></b>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Lead development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
+
+        <center><div className="video">
+        <iframe
+          src={"https://www.youtube.com/embed/O2x_DU9-14E?start=49&end=71"}
+          title={"test"}
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          frameBorder="0"
+          webkitallowfullscreen="true"
+          mozallowfullscreen="true"
+          allowFullScreen
+          height="200px"
+          width="400px"
+  
+        />
+      </div>
+      </center>
+
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 m. passengers.</li>
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Monitor user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Monitor user logs, update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
 
         <ul style="text-indent:-20px; margin-left:20px;">
@@ -101,7 +118,7 @@ module.exports = {
         when: "2016.6 - 2019.6",
         company: `Mediazen, Seoul, South Korea`,
         where: "",
-        moreInfo: `<li>Trained kaldi-based acoustic model for speech recognition.</li>`,
+        moreInfo: `Trained kaldi-based acoustic model for speech recognition.`,
 
       },
       {
