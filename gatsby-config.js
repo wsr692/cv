@@ -64,7 +64,7 @@ module.exports = {
         when: "2009-2013",
         school: "Colgate University",
         where: "New York, USA",
-        moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year merit-based scholarship</p>`,
+        moreInfo: <p>Alumni Memorial Scholar; recipient of a 4-year merit-based scholarship</p>,
       },
     ],
     experience: [
@@ -73,7 +73,7 @@ module.exports = {
         when: "2019.6 - Present",
         company: "Mediazen",
         where: "Seoul, South Korea",
-        moreInfo: `
+        moreInfo: 
 
         <ul style="list-style-position:inside; text-indent: 20px;margin-left: 20px;">
         Project Lead,<b> <em>Voice Command System for Subway Ticketing Kiosks</em></b>
