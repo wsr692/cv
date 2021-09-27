@@ -74,7 +74,7 @@ module.exports = {
   
 
         <ul>
-        Voice Command System for Subway Ticketing Kiosks, Project Lead Sep. 2020 - Present
+        <em>Voice Command System for Subway Ticketing Kiosks<em>, Project Lead
         <li>Led development of multi-lingual (English, Korean, Japanese and Mandarin Chinese) voice command based system for
         an airport express annually servicing over 100 million passengers.</li>
         <li>Translated client needs into engineering tasks and guided the client over various technical details.</li>
@@ -82,7 +82,7 @@ module.exports = {
         </ul>
 
         <ul>
-        Web-based Multi-Worker Speech Annotation System, Project Lead Jan. 2018 - Present
+        <em>Web-based Multi-Worker Speech Annotation System<em>,Project Lead
         <li>Facilitated speech data pipeline by developing a web application that for real-time task assignment, automated rule
         application, editor feedback and monitoring of annotation workers.</li>
         <li>Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
