@@ -74,7 +74,7 @@ module.exports = {
   
 
         <ul>
-        <em>Voice Command System for Subway Ticketing Kiosks<em>, Project Lead
+        Project Lead, <em>Voice Command System for Subway Ticketing Kiosks</em>
         <li>Led development of multi-lingual (English, Korean, Japanese and Mandarin Chinese) voice command based system for
         an airport express annually servicing over 100 million passengers.</li>
         <li>Translated client needs into engineering tasks and guided the client over various technical details.</li>
@@ -82,7 +82,7 @@ module.exports = {
         </ul>
 
         <ul>
-        <em>Web-based Multi-Worker Speech Annotation System<em>,Project Lead
+        Project Lead, <em>Web-based Multi-Worker Speech Annotation System</em>
         <li>Facilitated speech data pipeline by developing a web application that for real-time task assignment, automated rule
         application, editor feedback and monitoring of annotation workers.</li>
         <li>Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
