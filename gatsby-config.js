@@ -26,17 +26,8 @@ module.exports = {
         moreInfo: `<b>Data-Efficient TTS</b>
         <p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
         <ul>
-          <li>
-            Selected speech data based on their phone-based accuracies measured by DNN-HMM acoustic model.
-          </li>
-          <li>
-            Trained character & phone based end-to-end English TTS (Tacotron2 + Waveglow) with the selected data
-          </li>
-          <li>
-            Improved training convergence and clarity of end-to-end TTS by training on data selected by phone posteriors derived from speech recognition.
-          </li>
-          <li>
-            Created 30+ voices of native and various non-native English speakers, using as little as 20 mins of selected speech data.
+        <li>
+            Improved training convergence and clarity of end-to-end TTS by training on data selected by phone-posteriors derived from speech recognition.
           </li>
           <li>
             Demonstrated phone-posteriors are effective for selecting quality TTS data for both standard and non-standard pronunciations.
