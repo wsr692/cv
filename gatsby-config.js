@@ -1,3 +1,5 @@
+import Video from "src/components/video"
+
 module.exports = {
   /* Your site config here */
   siteMetadata: {
@@ -65,9 +67,10 @@ module.exports = {
         <p> Training and deploying noise-robust ASR models (DNN-HMM hybrid acoustic models + FST-based language models) that meet client accuracy standards (90% for 3-best results)  </p>
         <p> Develop Keyword Extraction modules from STT results</p>
         <p> Voice Cloning-based speech data generation for ASR and wake-word modelling</p>
-        <p> A web-based multi-worker speech data annotation system built to endure 1000+ simultaneous connections. </p>
-        `,
+        <p> A web-based multi-worker speech data annotation system built to endure 1000+ simultaneous connections. </p>`,
       },
+      <Video videoSrcURL={"https://www.youtube.com/embed/O2x_DU9-14E?start=49&end=71"} videoTitle={'test'}/>
+
       {
         role: "Student Researcher",
         when: "2016.6 - 2019.6",

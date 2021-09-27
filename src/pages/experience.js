@@ -37,7 +37,7 @@ export default props => {
       pageDescription="Learn more about my experience"
     >
       {experience}
-      <Video videoSrcURL={"https://www.youtube.com/embed/O2x_DU9-14E?start=49&end=71"} videoTitle={'test'}/>
+
     </Layout>
   )
 }
