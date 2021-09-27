@@ -21,7 +21,7 @@ module.exports = {
         degree: "Ph.D.",
         major: "Linguistics (Phonetics)",
         when: "2018-2021",
-        school: "Korea University,Seoul, South Korea",
+        school: "Korea University, Seoul, South Korea",
         where: "",
         moreInfo: `<b>Data-Efficient TTS</b>
         <p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
@@ -52,7 +52,7 @@ module.exports = {
         degree: "M.A.",
         major: "Linguistics (Phonetics)",
         when: "2015-2018",
-        school: "Korea University,Seoul, South Korea",
+        school: "Korea University, Seoul, South Korea",
         where: "",
         moreInfo: `<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>
         <ul><em>Publications</em>
