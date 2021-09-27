@@ -146,10 +146,10 @@ module.exports = {
       }
 
     ],
-    interests: [
-      "Speech",
-      "Programming",
-      "Soccer",
+    interests: ['n/a'
+      // "Speech",
+      // "Programming",
+      // "Soccer",
     ],
     //available_themes: ["great-gatsby", "master-yoda", "wonder-woman", "darth-vader", "luke-lightsaber"],
     theme: "great-gatsby",
