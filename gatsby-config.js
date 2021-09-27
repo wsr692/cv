@@ -55,7 +55,7 @@ module.exports = {
         school: "Korea University",
         where: "Seoul, South Korea",
         moreInfo: `Thesis: Speaker Adaptation for Robust Speech Recognition
-        <br>You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., … Nam, H. (2016). Development of articulatory estimation model using deep neural network. Phonetics and Speech Sciences, 8(3), 31–38. https://doi.org/10.13064/ksss.2016.8.3.031
+        <br>You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., … Nam, H. (2016). Development of articulatory estimation model using deep neural network. Phonetics and Speech Sciences, 8(3), 31–38. https://doi.org/10.13064/ksss.2016.8.3.031`
  
       },
       {
@@ -75,7 +75,7 @@ module.exports = {
         where: "Seoul, South Korea",
         moreInfo: 
 
-        <ul style="list-style-position:inside; text-indent: 20px;margin-left: 20px;">
+        `<ul style="list-style-position:inside; text-indent: 20px;margin-left: 20px;">
         Project Lead,<b> <em>Voice Command System for Subway Ticketing Kiosks</em></b>
         <li style="list-style-position:inside; text-indent: 20px;">Led development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
 
