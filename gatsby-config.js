@@ -68,12 +68,8 @@ module.exports = {
         company: "Mediazen",
         where: "Seoul, South Korea",
         moreInfo: `
-        
-        <p>• Text-to-Speech</p>
-        <p>• Speech Recognition</p>
-  
 
-        <ul style="list-style: none; width: 200px; text-indent: -20px;margin-left: 20px;">
+        <ul style="list-style-position:inside; text-indent: -20px;margin-left: 20px;">
         Project Lead, <em>Voice Command System for Subway Ticketing Kiosks</em>
         <li style="line-height: 20px;list-style-position: inside;text-indent: 3em;">Led development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
 
