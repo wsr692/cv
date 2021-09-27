@@ -64,7 +64,7 @@ module.exports = {
         when: "2009-2013",
         school: "Colgate University",
         where: "New York, USA",
-        moreInfo: <p>Alumni Memorial Scholar; recipient of a 4-year merit-based scholarship</p>,
+        moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year merit-based scholarship</p>`,
       },
     ],
     experience: [
