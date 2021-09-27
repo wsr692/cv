@@ -6,8 +6,8 @@ const Menu = props => {
   const menuItems = [
     { name: "About", link: "/" },
     // { name: "Skills", link: "/skills" },
-    { name: "Education", link: "/education" },
     { name: "Experience", link: "/experience" },
+    { name: "Education", link: "/education" },
     { name: "Interests", link: "/interests" },
   ].map((item, index) => (
     <MenuItem
