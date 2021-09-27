@@ -21,7 +21,7 @@ body {
   color: #606c76;
   font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 1.6em;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: 0.01em;
   line-height: 1.6;
 }
@@ -542,7 +542,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: -0.1rem;
   margin-bottom: 2rem;
   margin-top: 0;
