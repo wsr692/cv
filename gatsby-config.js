@@ -23,13 +23,25 @@ module.exports = {
         when: "2018-2021",
         school: "Korea University",
         where: "Seoul, South Korea",
-        moreInfo: `Data-based approaches to improving TTS pronunciation accuracies 
+        moreInfo: ` Data-Efficient TTS
         <p>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</p>
         <ul>
-        <li>Selected speech data based on their phone-based accuracies measured by DNN-HMM acoustic model</li>
-        <li>Trained character & phone based end-to-end English TTS (Tacotron2 + Waveglow) with the selected data</li>
-        <li>Result: TTS models trained with high-accuracy & smaller data subsets, generated clearer speech than unfiltered & larger datasets,</li>
-         </ul>
+          <li>
+            Selected speech data based on their phone-based accuracies measured by DNN-HMM acoustic model.
+          </li>
+          <li>
+            Trained character & phone based end-to-end English TTS (Tacotron2 + Waveglow) with the selected data
+          </li>
+          <li>
+            Improved training convergence and clarity of end-to-end TTS by training on data selected by phone posteriors derived from speech recognition.
+          </li>
+          <li>
+            Created 30+ voices of native and various non-native English speakers, using as little as 20 mins of selected speech data.
+          </li>
+          <li>
+            Demonstrated phone-posteriors are effective for selecting quality TTS data for both standard and non-standard pronunciations.
+          </li>
+        </ul>
         `,
       },
       {
@@ -55,21 +67,18 @@ module.exports = {
         when: "2019.6 - Present",
         company: "Mediazen",
         where: "Seoul, South Korea",
-        moreInfo: ` – Implemented Transformer-based TTS (Fastspeech) for Korean and English; experimented with various frame-wise annotation schemes on training data.
-        – Pre-processed text into phoneme sequences using both custom and open-sourced G2P systems.
-        – Pre-processed various types of audio data using signal processing and forced-alignment.
+        moreInfo: `<p>
+        <>
+        Implemented Transformer-based TTS (Fastspeech) for Korean and English<br> 
+        experimented with various frame-wise annotation schemes on training data.<br>
+        – Pre-processed text into phoneme sequences using both custom and open-sourced G2P systems.<br>
+        – Pre-processed various types of audio data using signal processing and forced-alignment.<br>
+        
         • Speech Recognition
         – Built domain-adapted FST models for AI-assisted contact centers in shopping, foods and hospitality industries. – Built rule-based, light-weight FST models for ASR in subway ticketing kiosks.
-        – Trained DNN-HMM acoustic models that are robust to various indoor and outdoor noises.
+        – Trained DNN-HMM acoustic models that are robust to various indoor and outdoor noises.</p>
         
-        <ul>
-        Data-Efficient TTS, Doctoral Research Apr. 2020 - Present
-        <li>Improved training convergence and clarity of end-to-end TTS by training on data selected by phone posteriors derived
-        from speech recognition.</li>
-        <li>Created 30+ voices of native and various non-native English speakers, using as little as 20 mins of selected speech data.</li>
-        <li>Demonstrated phone-posteriors are effective for selecting quality TTS data for both standard and non-standard pro-
-        nunciations.</li>
-        </ul>
+
 
         <ul>
         Voice Command System for Subway Ticketing Kiosks, Project Lead Sep. 2020 - Present
