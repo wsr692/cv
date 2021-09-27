@@ -89,11 +89,11 @@ module.exports = {
         where: "",
         moreInfo: 
 
-        `<ul style="list-style-position:inside; text-indent: 20px;margin-left: 20px;">
+        `<ul style="    list-style:none; text-indent:-20px; margin-left:20px;">
         Project Lead,<b> <em>Voice Command System for Subway Ticketing Kiosks</em></b>
         <li style="list-style-position:inside; text-indent: 20px;">Led development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
 
-        <li style="list-style-position:inside; text-indent: 20px;">Translated client needs into engineering tasks and guided the client over various technical details.</li>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Translated client needs into engineering tasks and guided the client over various technical details.</li>
         <li style="list-style-position:inside; text-indent: 20px;">"Monitored user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
 
@@ -134,7 +134,7 @@ module.exports = {
         where: "",
         moreInfo: `Translated (Korean-to-English) internal documents and company-wise newsletters.`,
       },
-      {
+      { 
         role: "Technical Localization",
         when: "2013.9-2014.5",
         company: `<em><b>Lionbridge Technologies, Seoul, South Korea</em></b>`,
