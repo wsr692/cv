@@ -42,11 +42,11 @@ module.exports = {
             Demonstrated phone-posteriors are effective for selecting quality TTS data for both standard and non-standard pronunciations.
           </li>
         </ul>
-        <Publications>
-        <br>Cho, Y. and Nam, H. (2021). A Comparison of L1 and L2 Speech Phonetic Posteriorgrams for Applications in Pronunciation Training. 외국어교육연구, 35(1), 293-304.,
-        <br>Kim, J. E., Cho, Y., Cho, Y., Hong, Y., Kim, S., & Nam, H. (2020). The effects of l1-l2 phonological mappings on l2 phonological sensitivity. Studies in Second Language Acquisition, 42(5), 1041-1076. https://doi.org/10.1017/S0272263120000133
-
-        `,
+        
+        <ul>Publications
+          <li>Cho, Y. and Nam, H. (2021). A Comparison of L1 and L2 Speech Phonetic Posteriorgrams for Applications in Pronunciation Training. 외국어교육연구, 35(1), 293-304., </li>
+          <li> <br>Kim, J. E., Cho, Y., Cho, Y., Hong, Y., Kim, S., & Nam, H. (2020). The effects of l1-l2 phonological mappings on l2 phonological sensitivity. Studies in Second Language Acquisition, 42(5), 1041-1076. https://doi.org/10.1017/S0272263120000133</li>
+        </ul> `,
       },
       {
         degree: "M.A.",
@@ -55,8 +55,9 @@ module.exports = {
         school: "Korea University",
         where: "Seoul, South Korea",
         moreInfo: `Thesis: Speaker Adaptation for Robust Speech Recognition
-        <br>You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., … Nam, H. (2016). Development of articulatory estimation model using deep neural network. Phonetics and Speech Sciences, 8(3), 31–38. https://doi.org/10.13064/ksss.2016.8.3.031`
- 
+        <ul>Publications
+          You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., … Nam, H. (2016). Development of articulatory estimation model using deep neural network. Phonetics and Speech Sciences, 8(3), 31–38. https://doi.org/10.13064/ksss.2016.8.3.031
+        </ul>`
       },
       {
         degree: "B.A.",
