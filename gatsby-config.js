@@ -64,8 +64,17 @@ module.exports = {
         when: "2009-2013",
         school: "Colgate University",
         where: "New York, USA",
-        moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year merit-based scholarship</p>`,
-      },
+        moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year merit-based scholarship</p>
+         "Alumni Memorial Scholars Fellowship Research - A Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China"`,
+      
+        //  "Hand Gestures and Head Nods Assist in L2 Production of Mandarin Tones"
+        //  Cho, Y., Zheng, A., Kelly, S., Hirata, Y., Colgate University
+
+        //  Studied the effects of co-speech hand and head gestures on Mandarin Chinese tone production by L2
+        //  speakers. Results showed that producing hand gestures and head nods with speech was superior to speech
+        //  alone in imitating a native Mandarin speech model. The results support embodied theories of language
+        //  production.
+        },
     ],
     experience: [
       {
