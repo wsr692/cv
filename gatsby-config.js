@@ -21,7 +21,7 @@ module.exports = {
         degree: "Ph.D.",
         major: "Linguistics (Phonetics)",
         when: "2018-2021",
-        school: "Korea University, Seoul, South Korea",
+        school: "<em><b>Korea University, Seoul, South Korea</em></b>",
         where: "",
         moreInfo: `<b>Data-Efficient TTS</b>
         <p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
@@ -52,7 +52,7 @@ module.exports = {
         degree: "M.A.",
         major: "Linguistics (Phonetics)",
         when: "2015-2018",
-        school: "Korea University, Seoul, South Korea",
+        school: "<em><b>Korea University, Seoul, South Korea</em></b>",
         where: "",
         moreInfo: `<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>
         <ul><em>Publications</em>
@@ -63,7 +63,7 @@ module.exports = {
         degree: "B.A.",
         major: "Neuroscience (minor in Linguistics)",
         when: "2009-2013",
-        school: "Colgate University, New York, USA",
+        school: "<em><b>Colgate University, New York, USA</em></b>",
         where: "",
         moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year academic scholarship</p>
         Alumni Memorial Scholar Fellowship Research : Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China"`,
@@ -81,7 +81,7 @@ module.exports = {
       {
         role: "Research Engineer",
         when: "2019.6 - Present",
-        company: "Mediazen, Seoul, South Korea",
+        company: "<br><em>Mediazen, Seoul, South Korea</em></br>",
         where: "",
         moreInfo: 
 
@@ -112,7 +112,7 @@ module.exports = {
       {
         role: "Student Researcher",
         when: "2016.6 - 2019.6",
-        company: "Mediazen, Seoul, South Korea",
+        company: "<em><b>Mediazen, Seoul, South Korea</em></b>",
         where: "",
         moreInfo: `<li>Trained kaldi-based acoustic model for speech recognition.</li>`,
 
@@ -120,20 +120,20 @@ module.exports = {
       {
         role: "Teaching Assistant",
         when: "2016.1",
-        company: "Korea University MATLAB winter program",
+        company: "<em><b>Korea University MATLAB winter program</em></b>",
         moreInfo: "Taught basics of digital signal processing and programming to 40+ undergraduate students for 4 weeks.",
       },
       {
         role: "Technical Writing, Freelancer",
-        when: "2015-2019",
-        company: "LINE plus corp., Seongnam, South Korea",
+        when: "2015.1 - 2019.5",
+        company: "<em><b>LINE plus corp., Seongnam, South Korea</em></b>",
         where: "",
         moreInfo: `Translated (Korean-to-English) internal documents and company-wise newsletters.`,
       },
       {
         role: "Technical Localization",
         when: "2013.9-2014.5",
-        company: "Lionbridge Technologies, Seoul, South Korea",
+        company: "<em><b>Lionbridge Technologies, Seoul, South Korea</em></b>",
         where: "",
         moreInfo: `Contributed to English localization of an Lineage, a MMORPG game (revenue of $1.8 billion by 2013)`,
       },
