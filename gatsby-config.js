@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://yscho.netlify.app`,
     name: `ysc`,
     role: `Speech Scientist`,
-    email: `ysc@gmail.com`,
+    email: `email`,
     socialMedia: [
       {
         name: "github",
@@ -38,7 +38,7 @@ module.exports = {
         when: "2015-2018",
         school: "Korea University",
         where: "Seoul, South Korea",
-        moreInfo: `write`,
+        moreInfo: `Thesis: Speaker Adaptation for Robust Speech Recognition`,
       },
       {
         degree: "B.A.",
@@ -46,13 +46,7 @@ module.exports = {
         when: "2009-2013",
         school: "Colgate University",
         where: "New York, USA",
-        moreInfo: `<p>write</p>`,
-      },
-      {
-        degree: "High School Diploma",
-        when: "2006-2009",
-        school: "Ewha Foreign Language High School",
-        where: "Seoul, South Korea",
+        moreInfo: `<p>Recipient of Merit-based scholarship, 4-years</p>`,
       },
     ],
     experience: [
@@ -61,12 +55,36 @@ module.exports = {
         when: "2019.6 - Present",
         company: "Mediazen",
         where: "Seoul, South Korea",
-        moreInfo: `<p>Automatic Speech Recognition for subway ticketing machines</p>
-        <p> Model and develop multi-lingual (EN,KR,JP,CH) speech-based ticketing system for a subway line that transports 100 million passengers per year)</p>
-        <p> Training and deploying noise-robust ASR models (DNN-HMM hybrid acoustic models + FST-based language models) that meet client accuracy standards (90% for 3-best results)  </p>
-        <p> Develop Keyword Extraction modules from STT results</p>
-        <p> Voice Cloning-based speech data generation for ASR and wake-word modelling</p>
-        <p> A web-based multi-worker speech data annotation system built to endure 1000+ simultaneous connections. </p>`,
+        moreInfo: ` – Implemented Transformer-based TTS (Fastspeech) for Korean and English; experimented with various frame-wise annotation schemes on training data.
+        – Pre-processed text into phoneme sequences using both custom and open-sourced G2P systems.
+        – Pre-processed various types of audio data using signal processing and forced-alignment.
+        • Speech Recognition
+        – Built domain-adapted FST models for AI-assisted contact centers in shopping, foods and hospitality industries. – Built rule-based, light-weight FST models for ASR in subway ticketing kiosks.
+        – Trained DNN-HMM acoustic models that are robust to various indoor and outdoor noises.
+        PROJECTS
+        Data-Efficient TTS, Doctoral Research Apr. 2020 - Present
+        • Improved training convergence and clarity of end-to-end TTS by training on data selected by phone posteriors derived
+        from speech recognition.
+        • Created 30+ voices of native and various non-native English speakers, using as little as 20 mins of selected speech data.
+        • Demonstrated phone-posteriors are effective for selecting quality TTS data for both standard and non-standard pro-
+        nunciations.
+        Voice Command System for Subway Ticketing Kiosks, Project Lead Sep. 2020 - Present
+        • Led development of multi-lingual (English, Korean, Japanese and Mandarin Chinese) voice command based system for
+        an airport express annually servicing over 100 million passengers.
+        • Translated client needs into engineering tasks and guided the client over various technical details.
+        • Monitored user logs to constantly update ASR models to maintain recognition accuracy at 90%.
+        Web-based Multi-Worker Speech Annotation System, Project Lead Jan. 2018 - Present
+        • Facilitated speech data pipeline by developing a web application that for real-time task assignment, automated rule
+        application, editor feedback and monitoring of annotation workers.
+        • Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
+        worker connections and providing dashboards for real-time monitoring of annotation progress and quality.`
+        
+        // moreInfo: `<p>Automatic Speech Recognition for subway ticketing machines</p>
+        // <p> Model and develop multi-lingual (EN,KR,JP,CH) speech-based ticketing system for a subway line that transports 100 million passengers per year)</p>
+        // <p> Training and deploying noise-robust ASR models (DNN-HMM hybrid acoustic models + FST-based language models) that meet client accuracy standards (90% for 3-best results)  </p>
+        // <p> Develop Keyword Extraction modules from STT results</p>
+        // <p> Voice Cloning-based speech data generation for ASR and wake-word modelling</p>
+        // <p> A web-based multi-worker speech data annotation system built to endure 1000+ simultaneous connections. </p>`,
       },
 
       {
@@ -74,7 +92,7 @@ module.exports = {
         when: "2016.6 - 2019.6",
         company: "Mediazen",
         where: "Seoul, South Korea",
-        moreInfo:`na`,
+        moreInfo:`Train kaldi-based acoustic model for speech recognition.`,
 
       },
       {
@@ -82,21 +100,21 @@ module.exports = {
         when: "2016.12",
         company: "Korea University",
         where: "Seoul, South Korea",
-        moreInfo: `Taught MATLAB programming and basics of digital signal processing to undergraduate students.`,
+        moreInfo: `MATLAB winter school - taught basics of digital signal processing to undergraduate students.`,
       },
       {
         role: "Technical Writing, Freelancer",
         when: "2015-2019",
         company: "LINE plus corp.",
         where: "Seongnam, South Korea",
-        moreInfo: `See my <a href="#" target="_blank" rel="noopener noreferrer">work</a>.`,
+        moreInfo: `Translated (Korean-to-English) internal documents and company-wise newsletters.`,
       },
       {
         role: "Technical Localization",
         when: "2013.9-2014.5",
         company: "Lionbridge Technologies",
         where: "Seoul, South Korea",
-        moreInfo: `See my <a href="#" target="_blank" rel="noopener noreferrer">work</a>.`,
+        moreInfo: `Contributed to English localization of an Lineage, a MMORPG game (revenue of $1.8 billion by 2013)`,
       },
     ],
     skills: [
