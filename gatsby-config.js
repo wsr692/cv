@@ -74,7 +74,7 @@ module.exports = {
         <li style="list-style-position:inside; text-indent: 20px;">Led development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
 
         <li style="list-style-position:inside; text-indent: 20px;">Translated client needs into engineering tasks and guided the client over various technical details.</li>
-        <li style="list-style-position:inside; text-indent: 20px;"Monitored user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
+        <li style="list-style-position:inside; text-indent: 20px;">"Monitored user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
 
         <ul style="list-style-position:inside; text-indent: 20px;margin-left: 20px;">
