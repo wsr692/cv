@@ -92,7 +92,7 @@ module.exports = {
         </ul>
 
         <ul style="text-indent:-20px; margin-left:20px;">
-        <em>Project Lead, <b>Web-based Multi-Worker Speech Annotation System</em></b>
+        <em>Project Lead, <b>Multi-Worker Speech Annotation System</em></b>
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Facilitated speech data pipeline by developing a web application for real-time task assignment, automated rule
         application, editor feedback and monitoring of annotation workers.</li>
         <li style="list-style-position:inside;margin-bottom:10px;  text-indent: 10px;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
