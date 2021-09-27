@@ -45,9 +45,9 @@ module.exports = {
         
         <ul><em>Publications</em>
           <li>
-          Cho, Y. and Nam, H. (2021). A Comparison of L1 and L2 Speech Phonetic Posteriorgrams for Applications in Pronunciation Training. Studies in Foreign Language Education, 35(1), 293-304., </li>
+          Cho, Y. and Nam, H. (2021). A Comparison of L1 and L2 Speech Phonetic Posteriorgrams for Applications in Pronunciation Training. <em>Studies in Foreign Language Education</em>, 35(1), 293-304., </li>
           <li>
-          Kim, J. E., Cho, Y., Cho, Y., Hong, Y., Kim, S., & Nam, H. (2020). The effects of l1-l2 phonological mappings on l2 phonological sensitivity. Studies in Second Language Acquisition, 42(5), 1041-1076. https://doi.org/10.1017/S0272263120000133</li>
+          Kim, J. E., Cho, Y., Cho, Y., Hong, Y., Kim, S., & Nam, H. (2020). The effects of l1-l2 phonological mappings on l2 phonological sensitivity. <em>Studies in Second Language Acquisition</em>, 42(5), 1041-1076. https://doi.org/10.1017/S0272263120000133</li>
         </ul> `,
       },
       {
@@ -59,7 +59,7 @@ module.exports = {
         moreInfo: `<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>
         <ul><em>Publications</em>
         <li>
-          You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., Nam, H. (2016). Development of articulatory estimation model using deep neural network. Phonetics and Speech Sciences, 8(3), 31–38. https://doi.org/10.13064/ksss.2016.8.3.031
+          You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., Nam, H. (2016). Development of articulatory estimation model using deep neural network. <em>Phonetics and Speech Sciences</em>, 8(3), 31–38. https://doi.org/10.13064/ksss.2016.8.3.031
           </li>
         </ul>`
       },
@@ -91,9 +91,9 @@ module.exports = {
 
         `<ul style="text-indent:-20px; margin-left:20px;">
         Project Lead,<b> <em>Voice Command System for Subway Ticketing Kiosks</em></b>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Led development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Translated client needs into engineering tasks and guided the client over various technical details.</li>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">"Monitored user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Lead development of multi-lingual (English, Korean, Japanese, Chinese) voice command based system for an airport express annually servicing over 100 million passengers.</li>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 20px;">Monitor user logs to constantly update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
 
         <ul style="text-indent:-20px; margin-left:20px;">
@@ -103,14 +103,7 @@ module.exports = {
         <li style="list-style-position:inside;margin-bottom:10px;  text-indent: 20px;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
         worker connections and providing dashboards for real-time monitoring of annotation progress and quality.</li>
         </ul>`
-        
-        // moreInfo: `<p>Automatic Speech Recognition for subway ticketing machines</p>
-        // <p> Model and develop multi-lingual (EN,KR,JP,CH) speech-based ticketing system for a subway line that transports 100 million passengers per year)</p>
-        // <p> Training and deploying noise-robust ASR models (DNN-HMM hybrid acoustic models + FST-based language models) that meet client accuracy standards (90% for 3-best results)  </p>
-        // <p> Develop Keyword Extraction modules from STT results</p>
-        // <p> Voice Cloning-based speech data generation for ASR and wake-word modelling</p>
-        // <p> A web-based multi-worker speech data annotation system built to endure 1000+ simultaneous connections. </p>`,
-      },
+              },
 
       {
         role: "Student Researcher",
