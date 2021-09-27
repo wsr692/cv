@@ -67,6 +67,14 @@ module.exports = {
         <p> Voice Cloning-based speech data generation for ASR and wake-word modelling</p>
         <p> A web-based multi-worker speech data annotation system built to endure 1000+ simultaneous connections. </p>
         `,
+      },
+      {
+        role: "Student Researcher",
+        when: "2016.6 - 2019.6",
+        company: "Mediazen",
+        where: "Seoul, South Korea",
+        moreInfo: 
+        ,
 
       },
       {
@@ -86,7 +94,7 @@ module.exports = {
       {
         role: "Technical Localization",
         when: "2013.9-2014.5",
-        company: "Lionbridge Technokogies",
+        company: "Lionbridge Technologies",
         where: "Seoul, South Korea",
         moreInfo: `See my <a href="#" target="_blank" rel="noopener noreferrer">work</a>.`,
       },
