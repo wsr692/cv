@@ -73,7 +73,7 @@ module.exports = {
         when: "2016.6 - 2019.6",
         company: "Mediazen",
         where: "Seoul, South Korea",
-        moreInfo: 
+        moreInfo:`na`,
 
       },
       {
