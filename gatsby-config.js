@@ -85,7 +85,7 @@ module.exports = {
       {
         role: "Research Engineer",
         when: "2019.6 - Present",
-        company: `<br><em>Mediazen, Seoul, South Korea</em></br>`,
+        company: `<b><em>Mediazen, Seoul, South Korea</em></b>`,
         where: "",
         moreInfo: 
 
