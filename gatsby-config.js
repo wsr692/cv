@@ -81,8 +81,8 @@ module.exports = {
       {
         role: "Research Engineer",
         when: "2019.6 - Present",
-        company: "Mediazen",
-        where: "Seoul, South Korea",
+        company: "Mediazen, Seoul, South Korea",
+        where: "",
         moreInfo: 
 
         `<ul style="list-style-position:inside; text-indent: 20px;margin-left: 20px;">
@@ -112,8 +112,8 @@ module.exports = {
       {
         role: "Student Researcher",
         when: "2016.6 - 2019.6",
-        company: "Mediazen",
-        where: "Seoul, South Korea",
+        company: "Mediazen, Seoul, South Korea",
+        where: "",
         moreInfo: `<li>Trained kaldi-based acoustic model for speech recognition.</li>`,
 
       },
@@ -126,15 +126,15 @@ module.exports = {
       {
         role: "Technical Writing, Freelancer",
         when: "2015-2019",
-        company: "LINE plus corp.",
-        where: "Seongnam, South Korea",
+        company: "LINE plus corp., Seongnam, South Korea",
+        where: "",
         moreInfo: `Translated (Korean-to-English) internal documents and company-wise newsletters.`,
       },
       {
         role: "Technical Localization",
         when: "2013.9-2014.5",
-        company: "Lionbridge Technologies",
-        where: "Seoul, South Korea",
+        company: "Lionbridge Technologies, Seoul, South Korea",
+        where: "",
         moreInfo: `Contributed to English localization of an Lineage, a MMORPG game (revenue of $1.8 billion by 2013)`,
       },
     ],
