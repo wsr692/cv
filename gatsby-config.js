@@ -23,8 +23,8 @@ module.exports = {
         when: "2018-2021",
         school: "Korea University",
         where: "Seoul, South Korea",
-        moreInfo: ` Data-Efficient TTS
-        <p>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</p>
+        moreInfo: `<b>Data-Efficient TTS</b>
+        <p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
         <ul>
           <li>
             Selected speech data based on their phone-based accuracies measured by DNN-HMM acoustic model.
@@ -50,7 +50,11 @@ module.exports = {
         when: "2015-2018",
         school: "Korea University",
         where: "Seoul, South Korea",
-        moreInfo: `Thesis: Speaker Adaptation for Robust Speech Recognition`,
+        moreInfo: `Thesis: Speaker Adaptation for Robust Speech Recognition<br>
+        Kim, J. E., Cho, Y., Cho, Y., Hong, Y., Kim, S., & Nam, H. (2020). The effects of l1-l2 phonological mappings on l2 phonological sensitivity. Studies in Second Language Acquisition, 42(5), 1041-1076. https://doi.org/10.1017/S0272263120000133
+        <br>You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., … Nam, H. (2016). Development of articulatory estimation model using deep neural network. Phonetics and Speech Sciences, 8(3), 31–38. https://doi.org/10.13064/ksss.2016.8.3.031
+        <br>Cho, Y. and Nam, H. (2021). A Comparison of L1 and L2 Speech Phonetic Posteriorgrams for Applications in Pronunciation Training. 외국어교육연구, 35(1), 293-304.`,
+
       },
       {
         degree: "B.A.",
@@ -58,12 +62,12 @@ module.exports = {
         when: "2009-2013",
         school: "Colgate University",
         where: "New York, USA",
-        moreInfo: `<p>Recipient of Merit-based scholarship, 4-years</p>`,
+        moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year merit-based scholarship</p>`,
       },
     ],
     experience: [
       {
-        role: "Speech Research Engineer",
+        role: "Research Engineer",
         when: "2019.6 - Present",
         company: "Mediazen",
         where: "Seoul, South Korea",
