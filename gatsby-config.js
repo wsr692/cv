@@ -1,4 +1,3 @@
-import Video from "src/components/video"
 
 module.exports = {
   /* Your site config here */
@@ -69,7 +68,6 @@ module.exports = {
         <p> Voice Cloning-based speech data generation for ASR and wake-word modelling</p>
         <p> A web-based multi-worker speech data annotation system built to endure 1000+ simultaneous connections. </p>`,
       },
-      <Video videoSrcURL={"https://www.youtube.com/embed/O2x_DU9-14E?start=49&end=71"} videoTitle={'test'}/>
 
       {
         role: "Student Researcher",
