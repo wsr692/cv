@@ -102,15 +102,14 @@ module.exports = {
         when: "2016.6 - 2019.6",
         company: "Mediazen",
         where: "Seoul, South Korea",
-        moreInfo:`Train kaldi-based acoustic model for speech recognition.`,
+        moreInfo:`<li>Trained kaldi-based acoustic model for speech recognition.</li>,
 
       },
       {
-        role: "MATLAB Teaching Assistant",
-        when: "2016.12",
-        company: "Korea University",
-        where: "Seoul, South Korea",
-        moreInfo: `MATLAB winter school - taught basics of digital signal processing to undergraduate students.`,
+        role: "Teaching Assistant",
+        when: "2016.1",
+        company: "Korea University MATLAB winter program",
+        moreInfo: `Taught basics of digital signal processing and programming to 40+ undergraduate students for 4 weeks.`,
       },
       {
         role: "Technical Writing, Freelancer",
