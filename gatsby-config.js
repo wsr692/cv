@@ -27,10 +27,15 @@ module.exports = {
         <p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
         <ul>
         <li>
+
+
             Improved training convergence and clarity of end-to-end TTS by training on data selected by phone-posteriors derived from speech recognition.
           </li>
+          <img src="../../static/researchimages_for_cv.001.jpeg">
+
+          <li>Selected small amount (20 min.) of data based on phone-level pronunciation accuracy. </li>
           <li>
-            Demonstrated phone-posteriors are effective for selecting quality TTS data for both standard and non-standard pronunciations.
+            Demonstrated to be effective for data selection from both native and non-native English pronunciations.
           </li>
         </ul>
         
