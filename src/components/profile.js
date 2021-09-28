@@ -1,5 +1,5 @@
 import React from "react"
-import profile_photo from "../../static/profile.png"
+import profile_img from "../../static/profile.png"
 import { SocialIcon } from "react-social-icons"
 import { useStaticQuery, graphql } from "gatsby"
 
@@ -32,7 +32,7 @@ const Profile = props => {
   ))
   return (
     <>
-      <img src={profile_photo} alt={props.name} id="profile-img" />
+      <img src={profile_img} alt={props.name} id="profile-img" />
       <div id="profile-info-wrapper">
         <h4 id="profile-name">{props.name}</h4>
         <h6 id="profile-role">{props.role}</h6>
