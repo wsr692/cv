@@ -24,7 +24,6 @@ module.exports = {
         when: "2018-2021",
         school: "Korea University, Seoul, South Korea",
         where: "",
-        moreInfo:"LALA",
         thesis: `<b>Data-Efficient TTS</b>
         <p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
         <ul>
