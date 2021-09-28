@@ -24,7 +24,7 @@ module.exports = {
         when: "2018-2021",
         school: "Korea University, Seoul, South Korea",
         where: "",
-        moreInfo: `<b>Data-Efficient TTS</b>
+        thesis: `<b>Data-Efficient TTS</b>
         <p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
         <ul>
         <li>
@@ -38,9 +38,9 @@ module.exports = {
           <li>
             Demonstrated to be effective for data selection from both native and non-native English pronunciations.
           </li>
-        </ul>
+        </ul>`,
         
-        <ul><em>Publications</em>
+      publications:`<ul><em>Publications</em>
           <li>
           Cho, Y. and Nam, H. (2021). A Comparison of L1 and L2 Speech Phonetic Posteriorgrams for Applications in Pronunciation Training. <em>Studies in Foreign Language Education</em>, 35(1), 293-304., </li>
           <li>

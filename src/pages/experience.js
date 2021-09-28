@@ -2,8 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import Item from "../components/item"
 import { useStaticQuery, graphql } from "gatsby"
-import Video from "../components/video"
-
+import img_thesis from "../../static/researchimages_for_cv.001.jpeg"
 export default props => {
   const data = useStaticQuery(graphql`
     query {
@@ -27,7 +26,10 @@ export default props => {
       when={item.when}
       where={item.where}
       org={item.company}
-      moreInfo={item.moreInfo}
+      moreInfo={item.thesis+img_thesis+item.publications}
+      
+
+
     />
   ))
 
