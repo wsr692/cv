@@ -29,7 +29,7 @@ export default props => {
       when={item.when}
       where={item.where}
       org={item.school}
-      moreInfo={item.thesis+thesis_img+item.publications}
+      moreInfo={item.thesis}//+thesis_img+item.publications
     />
   ))
 
@@ -37,7 +37,6 @@ export default props => {
     <Layout
       pageTitle="Education"
       pageDescription="Learn more about my education background"
-
     >
 
 
