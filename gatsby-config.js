@@ -1,6 +1,6 @@
-import thesis_img from "static/researchimages_for_cv.001.jpeg"
 
 module.exports = {
+  
   /* Your site config here */
   siteMetadata: {
     siteUrl: `https://yscho.netlify.app`,
@@ -15,7 +15,7 @@ module.exports = {
       { name: "linkedin", link: "" },
     ],
     about: `
-      <p> Speech scientist, AI engineer and data enthusiast with 2.5+ years of experience in commercial TTS and ASR; Equipped with both technical and academic knowledge to build, analyze and improve state-of-the-art speech technologies.</p>
+      <p> Speech scientist and AI engineer with 2.5+ years of experience in commercial TTS and ASR; Equipped with both technical and academic knowledge to build, analyze and improve state-of-the-art speech technologies.</p>
       `,
     education: [
       {
