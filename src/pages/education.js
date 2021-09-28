@@ -29,7 +29,7 @@ export default props => {
       when={item.when}
       where={item.where}
       org={item.school}
-      moreInfo={item.moreInfo}
+      moreInfo={item.thesis+img_thesis+item.publications}
     />
   ))
 
@@ -48,4 +48,3 @@ export default props => {
       
     </Layout>
   )
-}
