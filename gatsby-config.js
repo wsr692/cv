@@ -31,7 +31,7 @@ module.exports = {
 
             Improved training convergence and clarity of end-to-end TTS by training on data selected by phone-posteriors derived from speech recognition.
           </li>
-          <img src="../../static/researchimages_for_cv.001.jpeg">
+          <img src="static/researchimages_for_cv.001.jpeg">
 
           <li>Selected small amount (20 min.) of data based on phone-level pronunciation accuracy. </li>
           <li>
