@@ -29,8 +29,7 @@ export default props => {
       when={item.when}
       where={item.where}
       org={item.school}
-      moreInfo={"<img src="+thesis_img+"/>"}
-      //{item.thesis}// +thesis_img+item.publications}
+      moreInfo={item.thesis+"<img src="+thesis_img+"/>"+item.publications}
     />
   ))
 
