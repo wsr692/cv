@@ -38,7 +38,7 @@ export default props => {
       pageDescription="Learn more about my education background"
 
     >
-            <img src="../../static/researchimages_for_cv.001.jpeg"></img>
+            <img src="../../static/profile.png"></img>
 
       {education}
     </Layout>
