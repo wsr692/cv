@@ -47,36 +47,36 @@ module.exports = {
           Kim, J. E., Cho, Y., Cho, Y., Hong, Y., Kim, S., & Nam, H. (2020). The effects of l1-l2 phonological mappings on l2 phonological sensitivity. <em>Studies in Second Language Acquisition</em>, 42(5), 1041-1076.</li>
         </ul> `,
       },
-      {
-        degree: "M.A.",
-        major: "Linguistics (Phonetics)",
-        when: "2015-2018",
-        school: `Korea University, Seoul, South Korea`,
-        where: "",
-        moreInfo: `<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>
-        <ul><em>Publications</em>
-        <li>
-          You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., Nam, H. (2016). Development of articulatory estimation model using deep neural network. <em>Phonetics and Speech Sciences</em>, 8(3), 31–38.
-          </li>
-        </ul>`
-      },
-      {
-        degree: "B.A.",
-        major: "Neuroscience (minor in Linguistics)",
-        when: "2009-2013",
-        school: `Colgate University, New York, USA`,
-        where: "",
-        moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year academic scholarship</p>
-        Alumni Memorial Scholar Fellowship Research : Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China"`,
+      // {
+      //   degree: "M.A.",
+      //   major: "Linguistics (Phonetics)",
+      //   when: "2015-2018",
+      //   school: `Korea University, Seoul, South Korea`,
+      //   where: "",
+      //   moreInfo: `<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>
+      //   <ul><em>Publications</em>
+      //   <li>
+      //     You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., Nam, H. (2016). Development of articulatory estimation model using deep neural network. <em>Phonetics and Speech Sciences</em>, 8(3), 31–38.
+      //     </li>
+      //   </ul>`
+      // },
+      // {
+      //   degree: "B.A.",
+      //   major: "Neuroscience (minor in Linguistics)",
+      //   when: "2009-2013",
+      //   school: `Colgate University, New York, USA`,
+      //   where: "",
+      //   moreInfo: `<p>Alumni Memorial Scholar; recipient of a 4-year academic scholarship</p>
+      //   Alumni Memorial Scholar Fellowship Research : Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China"`,
       
-        //  "Hand Gestures and Head Nods Assist in L2 Production of Mandarin Tones"
-        //  Cho, Y., Zheng, A., Kelly, S., Hirata, Y., Colgate University
+      //   //  "Hand Gestures and Head Nods Assist in L2 Production of Mandarin Tones"
+      //   //  Cho, Y., Zheng, A., Kelly, S., Hirata, Y., Colgate University
 
-        //  Studied the effects of co-speech hand and head gestures on Mandarin Chinese tone production by L2
-        //  speakers. Results showed that producing hand gestures and head nods with speech was superior to speech
-        //  alone in imitating a native Mandarin speech model. The results support embodied theories of language
-        //  production.
-        },
+      //   //  Studied the effects of co-speech hand and head gestures on Mandarin Chinese tone production by L2
+      //   //  speakers. Results showed that producing hand gestures and head nods with speech was superior to speech
+      //   //  alone in imitating a native Mandarin speech model. The results support embodied theories of language
+      //   //  production.
+      //   },
     ],
     experience: [
       {
