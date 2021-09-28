@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import Item from "../components/item"
 import { useStaticQuery, graphql } from "gatsby"
-import profile_photo from "../../static/profile.png"
+import thesis_img from "../../static/researchimages_for_cv.001.jpeg"
 
 export default props => {
   const data = useStaticQuery(graphql`
@@ -43,7 +43,7 @@ export default props => {
 
       {education}
 
-    <img src={profile_photo} alt="A dog smiling in a party hat" />
+    <img src={thesis_img} alt="phonetic posteriorgram based phone accuracy" />
 }
       
     </Layout>
