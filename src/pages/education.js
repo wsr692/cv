@@ -15,7 +15,8 @@ export default props => {
             when
             school
             where
-            moreInfo
+            thesis
+            publications
           }
         }
       }
