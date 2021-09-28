@@ -29,7 +29,7 @@ export default props => {
       when={item.when}
       where={item.where}
       org={item.school}
-      moreInfo={item.thesis+img_thesis+item.publications}
+      moreInfo={item.thesis+thesis_img+item.publications}
     />
   ))
 
@@ -43,8 +43,7 @@ export default props => {
 
       {education}
 
-    <img src={thesis_img} alt="phonetic posteriorgram based phone accuracy" />
-}
+
       
     </Layout>
   )
