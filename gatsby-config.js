@@ -119,15 +119,15 @@ module.exports = {
         company: `Mediazen Inc.`,
         where: "Seoul, South Korea",
         moreInfo: `    <ul style="text-indent:-20px; margin-left:-0.5em;">
-        <li style="list-style-position:inside; margin-bottom:30px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:2px; text-indent: 10px;">
         Trained kaldi-based acoustic/language model for speech recognition.
         </li>
 
-        <li style="list-style-position:inside; margin-bottom:3px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:2px; text-indent: 10px;">
         Developed grapheme-to-phoneme conversion in Korean.
         </li>
 
-        <li style="list-style-position:inside; margin-bottom:3px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:2px; text-indent: 10px;">
         Developed Generalized End-to-End loss based speaker recognition system.
         </li>
         </ul>`
