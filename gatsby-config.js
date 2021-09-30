@@ -128,7 +128,7 @@ module.exports = {
         </li>
 
         <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
-        Developed Generalized End-to-End loss based speaker recognition system.
+        Developed Generalized End-to-End loss speaker recognition system.
         </li>
         </ul>`
       },
