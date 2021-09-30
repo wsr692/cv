@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import Item from "../components/item"
 import { useStaticQuery, graphql } from "gatsby"
-import thesis_img from "../../static/researchimages_for_cv.001.jpeg"
+import thesis_img from "../../static/thesis.png"
 
 export default props => {
   const data = useStaticQuery(graphql`
