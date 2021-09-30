@@ -133,7 +133,7 @@ module.exports = {
         </ul>`
       },
       {
-        role: "Teaching Assistant",
+        role: "Lecturer",
         when: "Fall 2016",
         company: `Korea University`,
         moreInfo: "Responded to inquiries of 40+ undergraduate students  undergraduate English phonology course; reviewed exam questions, marked exams"
