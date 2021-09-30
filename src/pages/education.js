@@ -31,7 +31,7 @@ export default props => {
       where={item.where}
       org={item.school}
       moreInfo={
-        "<img src="+thesis_img+"/>"
+        "<p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p><img src="+thesis_img+"/>"
         +item.thesis
         +item.publications
       }
