@@ -91,7 +91,7 @@ module.exports = {
         <center><iframe width="500" height="250" src="https://www.youtube.com/embed/O2x_DU9-14E?start=49&end=71"><br>
         </iframe></center>
 
-        <ul style="text-indent:-20px; margin-left:30px;">
+        <ul style="text-indent:-20px; margin-left:30px;list-style-position: outside;">
         <em><b>Project Lead, Voice Command System for Subway Ticketing Kiosks</em></b>
         <br>
         <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 m. passengers.</li>
