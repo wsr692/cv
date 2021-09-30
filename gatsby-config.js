@@ -32,13 +32,13 @@ module.exports = {
         title:"<p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>",
         moreinfo: `
         <ul style="text-indent:-20px;margin-left:30px;">
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">
         Automatic evaluation of phone-level pronunciation accuracy of native and non-native English speech data, using DNN-HMM acoustic model.
       </li>
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">
             Improved convergence and clarity of end-to-end TTS by only training on smaller-sized (20 min.), high accuracy subsets.
           </li>
-          <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
+          <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">
             Demonstrated effect for data selection from both native and non-native English pronunciations.
           </li>
         </ul>`,
@@ -94,21 +94,21 @@ module.exports = {
         <ul style="text-indent:-20px; margin-left:30px;list-style-position: outside;">
         <em><b>Project Lead, Voice Command System for Subway Ticketing Kiosks</em></b>
         <br>
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 m. passengers.</li>
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Monitor user logs, update ASR models to maintain recognition accuracy at 90%.</li>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 m. passengers.</li>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Monitor user logs, update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
 
         <ul style="text-indent:-20px; margin-left:30px;">
         <em><b>Project Lead, Multi-Worker Speech Annotation System</em></b>
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Facilitated speech data pipeline by developing a web application for real-time rule checking, feedback, task assignment, monitoring of annotation workers.</li>
-        <li style="list-style-position:inside;margin-bottom:1px;  text-indent: 10px;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Facilitated speech data pipeline by developing a web application for real-time rule checking, feedback, task assignment, monitoring of annotation workers.</li>
+        <li style="list-style-position:inside;margin-bottom:1px;  text-indent: 0em;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
         worker connections and providing dashboards for real-time monitoring of annotation progress and quality.</li>
         </ul>
         
         <ul style="text-indent:-20px; margin-left:30px;">
         <em><b>Developer, Client-customized Wake-word System</em></b>
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Implemented and trained zero-shot voice cloning system (<a href="https://arxiv.org/pdf/1806.04558.pdf%7C">Jia et al., 2019</a>) that can generate thousands of training utterances for DNN-based wake-word modeling. </li>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Implemented and trained zero-shot voice cloning system (<a href="https://arxiv.org/pdf/1806.04558.pdf%7C">Jia et al., 2019</a>) that can generate thousands of training utterances for DNN-based wake-word modeling. </li>
         </ul>
         `
               },
@@ -119,15 +119,15 @@ module.exports = {
         company: `MediaZen Inc.`,
         where: "Seoul, South Korea",
         moreInfo: `    <ul style="text-indent:-20px; margin-left:30px;>
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">
         Trained kaldi-based acoustic/language model for ASR.
         </li>
 
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">
         Developed grapheme-to-phoneme conversion in Korean.
         </li>
 
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">
         Developed Generalized End-to-End loss speaker recognition system.
         </li>
         </ul>`
