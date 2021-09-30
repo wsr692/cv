@@ -76,7 +76,7 @@ module.exports = {
         where: "New York, USA",
         publications:"",
         title: `<p>Alumni Memorial Scholar (AMS); recipient of a 4-year academic scholarship</p>`,
-        moreinfo:`AMS Fellowship Research : <a href="http://blogs.colgate.edu/ams/2012/01/youngsun-cho-13-a-phonetics-focused-immersion-study-of-cantonese-in-hong-kong-china.html">link text
+        moreinfo:`AMS Fellowship Research : <a href="http://blogs.colgate.edu/ams/2012/01/youngsun-cho-13-a-phonetics-focused-immersion-study-of-cantonese-in-hong-kong-china.html">
         Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China</a>`,
       
         //  "Hand Gestures and Head Nods Assist in L2 Production of Mandarin Tones"
