@@ -34,10 +34,11 @@ export default props => {
       where={item.where}
       org={item.school}
       moreInfo={
-        (item.title||"")
-        +(item.moreInfo|| "<img src="+thesis_img+"/>")
-        +(item.thesis|| "")
-        +(item.publications|| "")
+        // (item.title||"")
+        // +(item.moreInfo|| "<img src="+thesis_img+"/>")
+        (item.degree=='Ph.D.' ? "<img src="+thesis_img+"/>" : "")
+        // +(item.thesis|| "")
+        // +(item.publications|| "")
       }
     />
   ))
