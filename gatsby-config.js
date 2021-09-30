@@ -120,7 +120,7 @@ module.exports = {
         where: "Seoul, South Korea",
         moreInfo: `    <ul style="text-indent:-20px; margin-left:30px;">
         <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
-        Trained kaldi-based acoustic/language model for speech recognition.
+        Trained kaldi-based acoustic/language model for ASR.
         </li>
 
         <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
