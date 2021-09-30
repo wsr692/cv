@@ -116,7 +116,7 @@ module.exports = {
         when: "2016.6 - 2019.6",
         company: `Mediazen Inc.`,
         where: "Seoul, South Korea",
-        moreInfo: `<ul style="text-indent:-20px; margin-left:20px;">
+        moreInfo: `<ul style="text-indent:-20px; margin-left:20px;text-height:1em">
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">
         Trained kaldi-based acoustic/language model for speech recognition.
         </li>
