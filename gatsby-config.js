@@ -93,14 +93,12 @@ module.exports = {
         `<ul style="text-indent:-20px; margin-left:20px;">
         <em>Project Lead, <b>Voice Command System for Subway Ticketing Kiosks</em></b>
         <br>
-        <center><iframe width="500" height="250" src="https://www.youtube.com/embed/O2x_DU9-14E?start=49&end=71"><br>
-        </iframe></center>
-
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 m. passengers.</li>
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Monitor user logs, update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
-
+        <center><iframe width="500" height="250" src="https://www.youtube.com/embed/O2x_DU9-14E?start=49&end=71"><br>
+        </iframe></center>
         <ul style="text-indent:-20px; margin-left:20px;">
         <em>Project Lead, <b>Multi-Worker Speech Annotation System</em></b>
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Facilitated speech data pipeline by developing a web application for real-time task assignment, automated rule
