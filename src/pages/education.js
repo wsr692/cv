@@ -17,7 +17,7 @@ export default props => {
             where
             publications
             title
-            moreInfo
+            moreinfo
           }
 
         }
