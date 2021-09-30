@@ -92,23 +92,23 @@ module.exports = {
         </iframe></center>
 
         <ul style="text-indent:-20px; margin-left:30px;">
-        <em>Project Lead, <b>Voice Command System for Subway Ticketing Kiosks</em></b>
+        <em><b>Project Lead, Voice Command System for Subway Ticketing Kiosks</em></b>
         <br>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 m. passengers.</li>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Monitor user logs, update ASR models to maintain recognition accuracy at 90%.</li>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 m. passengers.</li>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Monitor user logs, update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
 
         <ul style="text-indent:-20px; margin-left:30px;">
-        <em>Project Lead, <b>Multi-Worker Speech Annotation System</em></b>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Facilitated speech data pipeline by developing a web application for real-time rule checking, feedback, task assignment, monitoring of annotation workers.</li>
-        <li style="list-style-position:inside;margin-bottom:10px;  text-indent: 10px;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
+        <em><b>Project Lead, Multi-Worker Speech Annotation System</em></b>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Facilitated speech data pipeline by developing a web application for real-time rule checking, feedback, task assignment, monitoring of annotation workers.</li>
+        <li style="list-style-position:inside;margin-bottom:1px;  text-indent: 10px;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
         worker connections and providing dashboards for real-time monitoring of annotation progress and quality.</li>
         </ul>
         
         <ul style="text-indent:-20px; margin-left:30px;">
-        <em>Developer, <b>Client-customized Wake-word System</em></b>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Implemented and trained zero-shot voice cloning system (<a href="https://arxiv.org/pdf/1806.04558.pdf%7C">Jia et al., 2019</a>) that can generate thousands of training utterances for DNN-based wake-word modeling. </li>
+        <em><b>Developer, Client-customized Wake-word System</em></b>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">Implemented and trained zero-shot voice cloning system (<a href="https://arxiv.org/pdf/1806.04558.pdf%7C">Jia et al., 2019</a>) that can generate thousands of training utterances for DNN-based wake-word modeling. </li>
         </ul>
         `
               },
