@@ -15,7 +15,15 @@ module.exports = {
       { name: "linkedin", link: "" },
     ],
     about: `
-      <p> Speech scientist and AI engineer with 2.5+ years of experience in commercial TTS and ASR; Equipped with both technical and academic knowledge to build, analyze and improve state-of-the-art speech technologies.</p>
+      <p> I am a speech scientist and an  AI engineer with 2.5+ years of experience  in commercial TTS and ASR. I am interested in using deep-learning to automatically  select quality data for efficient training of speech-to-text systems.  I received a PhD in English linguistics from Korea University with a doctoral research on using phonetic posteriorgram for selecting TTS training data.  Since 2019, I have been a full-time research engineer for MediaZen Inc., Seoul, South Korea. 
+
+      As much as I am fluent with innovative machine learning methods for building and improving speech technologies, I understand that in real life, quality service is grounded on quality data. My expertise in linguistics have allowed me to devise better ways to prepare data used for training TTS and ASR. Furthermore, I enjoy using my technical skills as a developer for streamlining and automatizing work pipelines to maximize my team's efficiency.
+      
+      While leading multilingual ASR and TTS projects, I not only developed core models but defined the rules of annotation for 20+ data professionals and built RDBMS-based web service to allow efficient task assignment, automatic rule application, monitoring and reviewing. 
+      
+      I am interested in working in a dynamic environment to continue utilizing and widening my technical skills for building technologies that reach hundreds of millions of people worldwide. 
+      
+      </p>
       `,
     education: [
       {
