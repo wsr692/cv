@@ -94,7 +94,7 @@ module.exports = {
         <ul style="text-indent:-20px; margin-left:30px;list-style-position: outside;">
         <em><b>Project Lead, Voice Command System for Subway Ticketing Kiosks</em></b>
         <br>
-        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 m. passengers.</li>
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Lead development of multi-lingual (ENG, KOR, JAP, CHN) voice-command ticketing system for metropolitan airport express annually servicing over 100 million passengers.</li>
         <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Translate client needs into engineering tasks and guided the client over various technical details.</li>
         <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Monitor user logs, update ASR models to maintain recognition accuracy at 90%.</li>
         </ul>
