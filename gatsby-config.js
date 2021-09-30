@@ -30,11 +30,10 @@ module.exports = {
         degree: "Ph.D.",
         major: "Linguistics (Phonetics)",
         when: "2018-2021",
-        school: "Korea University, Seoul, South Korea",
-        where: "",
-        moreInfo:"",
+        school: "Korea University",
+        where: "Seoul, South Korea",
         title:"<p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>",
-        thesis: `
+        moreinfo: `
         <ul>
         <li>
         Automatic evaluation of phone-level pronunciation accuracy of native and non-native English speech data, using DNN-HMM acoustic model.
@@ -58,9 +57,8 @@ module.exports = {
         degree: "M.A.",
         major: "Linguistics (Phonetics)",
         when: "2015-2018",
-        school: `Korea University, Seoul, South Korea`,
-        where: "",
-        thesis: "",
+        school: "Korea University",
+        where:"Seoul, South Korea",
         moreinfo:"",
         title:"<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>",
         publications: `
@@ -74,13 +72,11 @@ module.exports = {
         degree: "B.A.",
         major: "Neuroscience (minor in Linguistics)",
         when: "2009-2013",
-        school: `Colgate University, New York, USA`,
-        where: "",
-        thesis: "",
-        title:"",
+        school: "Colgate University",
+        where: "New York, USA",
         publications:"",
-        moreinfo: `<p>Alumni Memorial Scholar (AMS); recipient of a 4-year academic scholarship</p>
-        AMS Fellowship Research : <a href="http://blogs.colgate.edu/ams/2012/01/youngsun-cho-13-a-phonetics-focused-immersion-study-of-cantonese-in-hong-kong-china.html">link text
+        title: `<p>Alumni Memorial Scholar (AMS); recipient of a 4-year academic scholarship</p>`,
+        moreinfo:`AMS Fellowship Research : <a href="http://blogs.colgate.edu/ams/2012/01/youngsun-cho-13-a-phonetics-focused-immersion-study-of-cantonese-in-hong-kong-china.html">link text
         Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China</a>`,
       
         //  "Hand Gestures and Head Nods Assist in L2 Production of Mandarin Tones"
