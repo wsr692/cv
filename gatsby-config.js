@@ -36,12 +36,12 @@ module.exports = {
         <p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
         <ul>
         <li>
-            Improved training convergence and clarity of end-to-end TTS by training on data selected by phone-posteriors derived from speech recognition.
+        Automatic evaluation of phone-level pronunciation accuracy of native and non-native English speech data, using DNN-HMM acoustic model.
+      </li>
+        <li>
+            Improved convergence and clarity of end-to-end TTS by only training on smaller-sized (20 min.), high accuracy subsets.
           </li>
-
-          <li>Selected small amount (20 min.) of data based on phone-level pronunciation accuracy. </li>
-          <li>
-            Demonstrated to be effective for data selection from both native and non-native English pronunciations.
+            Demonstrated effect for data selection from both native and non-native English pronunciations.
           </li>
         </ul>`,
         
@@ -116,14 +116,25 @@ module.exports = {
         when: "2016.6 - 2019.6",
         company: `Mediazen, Seoul, South Korea`,
         where: "",
-        moreInfo: `Trained kaldi-based acoustic model for speech recognition.`,
+        moreInfo: `<ul style="text-indent:-20px; margin-left:20px;">
+        <li>
+        Trained kaldi-based acoustic/language model for speech recognition.
+        </li>
 
+        <li>
+        Developed grapheme-to-phoneme conversion in Korean.
+        </li>
+
+        <li>
+        Developed Generalized End-to-End loss based speaker recognition system.
+        </li>
+        </ul>`
       },
       {
         role: "Teaching Assistant",
         when: "Fall 2016",
-        company: `English Phonology, Korea University`,
-        moreInfo: "Marked assignments, exams, as well as reviewing exam questions.",
+        company: `Undergraduate English Phonology, Korea University`,
+        moreInfo: "Reviewed midterm and final exam questions; marked exams and responded to inquiries of 40+ undergraduate students."
       },
 
       {
@@ -144,7 +155,7 @@ module.exports = {
         when: "2013.9-2014.5",
         company: `Lionbridge Technologies, Seoul, South Korea`,
         where: "",
-        moreInfo: `Contributed to English localization of an Lineage, a MMORPG game (revenue of $1.8 billion by 2013)`,
+        moreInfo: `Contributed to English localization of Lineage, a MMORPG game (revenue of $1.8 billion by 2013)`,
       },
     ],
     skills: [
