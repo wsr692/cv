@@ -15,9 +15,9 @@ module.exports = {
       { name: "linkedin", link: "" },
     ],
     about: `
-      <p> I am a speech scientist and an  AI engineer with 2.5+ years of experience in commercial TTS and ASR. I received a PhD in English linguistics from Korea University with a doctoral research on using phonetic posteriorgram for selecting TTS training data. Since 2019, I have been a full-time research engineer for MediaZen Inc., Seoul, South Korea. 
+      <p> I am a speech scientist and an AI engineer with 2.5+ years of experience in commercial TTS and ASR. My doctoral research was in <em>using phonetic posteriorgram for selecting TTS training data</em>. Since 2019, I have been a full-time research engineer for MediaZen Inc., Seoul, South Korea. 
       <br><br>
-      As much as I am adept with innovative machine learning methods for building speech technologies, I understand that in enterprise settings,<b>quality service is grounded in quality data</b>. I fully leverage my knowledge of linguistics and in deep learning to generate and annotate speech and language data, providing solid groundwork for applying state-of-the-art algorithms.
+      As much as I am adept with innovative machine learning methods for building speech technologies, I understand that in enterprise settings, <b>quality service is grounded in quality data</b>. I fully leverage my knowledge of linguistics and in deep learning to generate and annotate speech and language data, providing solid groundwork for applying state-of-the-art algorithms.
       <br><br>Furthermore, I enjoy using my technical skills as a developer for streamlining and automatizing work pipelines to maximize my team's efficiency.
       <br>While leading multilingual ASR and TTS projects, I not only developed the core models and project-specific anotation rules, but also built a company-internal RDBMS-based web service to allow efficient task assignment, <b>automatic</b> rule application, monitoring and reviewing. 
       <br><br>
@@ -107,7 +107,13 @@ module.exports = {
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Facilitated speech data pipeline by developing a web application for real-time rule checking, feedback, task assignment, monitoring of annotation workers.</li>
         <li style="list-style-position:inside;margin-bottom:10px;  text-indent: 10px;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
         worker connections and providing dashboards for real-time monitoring of annotation progress and quality.</li>
-        </ul>`
+        </ul>
+        
+        <ul style="text-indent:-20px; margin-left:30px;">
+        <em>Developer, <b>Client-customized Wake-word System</em></b>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Implemented and trained zero-shot voice cloning system (<a href="https://arxiv.org/pdf/1806.04558.pdf%7C">Jia et al., 2019</a>) that can generate thousands of training utterances for DNN-based wake-word modeling. </li>
+        </ul>
+        `
               },
 
       {
