@@ -31,14 +31,14 @@ module.exports = {
         where: "Seoul, South Korea",
         title:"<p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>",
         moreinfo: `
-        <ul style="text-indent:-20px; margin-left:-0.5em;">
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">
+        <ul style="text-indent:-20px;margin-left:30px;">
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
         Automatic evaluation of phone-level pronunciation accuracy of native and non-native English speech data, using DNN-HMM acoustic model.
       </li>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
             Improved convergence and clarity of end-to-end TTS by only training on smaller-sized (20 min.), high accuracy subsets.
           </li>
-          <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">
+          <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
             Demonstrated effect for data selection from both native and non-native English pronunciations.
           </li>
         </ul>`,
@@ -116,7 +116,7 @@ module.exports = {
       {
         role: "Student Researcher",
         when: "2016.6 - 2019.6",
-        company: `Mediazen Inc.`,
+        company: `MediaZen Inc.`,
         where: "Seoul, South Korea",
         moreInfo: `    <ul style="text-indent:-20px; margin-left:-0.5em;">
         <li style="list-style-position:inside; margin-bottom:2px; text-indent: 10px;">
