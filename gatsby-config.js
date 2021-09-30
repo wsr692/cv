@@ -4,15 +4,12 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     siteUrl: `https://yscho.netlify.app`,
-    name: `ysc`,
-    role: `Speech Scientist`,
-    email: `email`,
+    name: `Youngsun Cho`,
+    role: ``,
+    email: `youngsunhere@gmail.com`,
     socialMedia: [
-      {
-        name: "github",
-        link: "",
-      },
-      { name: "linkedin", link: "" },
+
+      { name: "linkedin", link: "https://www.linkedin.com/in/ysc0806" },
     ],
     about: `
       <p> I am a speech scientist and an AI engineer with 2.5+ years of experience in <b>commercial TTS and ASR</b>. My <b>doctoral research</b> was in using <b>phonetic posteriorgrams for selecting TTS training data</b>. Since 2019, I have been a full-time research engineer for MediaZen Inc., Seoul, South Korea. 
