@@ -86,8 +86,8 @@ module.exports = {
       {
         role: "Research Engineer",
         when: "2019.6 - Present",
-        company: `Mediazen, Seoul, South Korea`,
-        where: "",
+        company: `Mediazen Inc.`,
+        where: "Seoul, South Korea",
         moreInfo: 
 
         `<ul style="text-indent:-20px; margin-left:20px;">
@@ -113,8 +113,8 @@ module.exports = {
       {
         role: "Student Researcher",
         when: "2016.6 - 2019.6",
-        company: `Mediazen, Seoul, South Korea`,
-        where: "",
+        company: `Mediazen Inc.`,
+        where: "Seoul, South Korea",
         moreInfo: `<ul style="text-indent:-20px; margin-left:20px;">
         <li>
         Trained kaldi-based acoustic/language model for speech recognition.
@@ -145,15 +145,15 @@ module.exports = {
       {
         role: "Technical Writing, Freelancer",
         when: "2015.1 - 2019.5",
-        company: `LINE plus corp., Seongnam, South Korea`,
-        where: "",
+        company: `LINE plus corp.`,
+        where: "Seongnam, South Korea",
         moreInfo: `Translated (Korean-to-English) internal documents and company-wise newsletters.`,
       },
       { 
         role: "Technical Localization",
         when: "2013.9-2014.5",
-        company: `Lionbridge Technologies, Seoul, South Korea`,
-        where: "",
+        company: `Lionbridge Technologies`,
+        where: "Seoul, South Korea",
         moreInfo: `Contributed to English localization of Lineage, a MMORPG game (revenue of $1.8 billion by 2013)`,
       },
     ],
