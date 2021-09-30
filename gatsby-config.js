@@ -41,6 +41,7 @@ module.exports = {
         <li>
             Improved convergence and clarity of end-to-end TTS by only training on smaller-sized (20 min.), high accuracy subsets.
           </li>
+          <li>
             Demonstrated effect for data selection from both native and non-native English pronunciations.
           </li>
         </ul>`,
