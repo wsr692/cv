@@ -118,7 +118,7 @@ module.exports = {
         when: "2016.6 - 2019.6",
         company: `MediaZen Inc.`,
         where: "Seoul, South Korea",
-        moreInfo: `    <ul style="text-indent:-20px; margin-left:30px;">
+        moreInfo: `    <ul style="text-indent:-20px; margin-left:30px;width:700px;>
         <li style="list-style-position:inside; margin-bottom:1px; text-indent: 10px;">
         Trained kaldi-based acoustic/language model for ASR.
         </li>
