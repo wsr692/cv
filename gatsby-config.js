@@ -31,7 +31,7 @@ module.exports = {
         where: "Seoul, South Korea",
         title:"<p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>",
         moreinfo: `
-        <ul style="text-indent:-20px;margin-left:30px;">
+        <ul style="text-indent:-20px;margin-left:20px;">
         <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">
         Automatic evaluation of phone-level pronunciation accuracy of native and non-native English speech data, using DNN-HMM acoustic model.
       </li>
