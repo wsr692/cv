@@ -19,7 +19,7 @@ module.exports = {
       <br><br>
       As much as I am adept with innovative machine learning methods for building speech technologies, I understand that in enterprise settings, <b>quality service is grounded in quality data</b>. I fully leverage my knowledge of linguistics and deep learning to generate and annotate speech and language data, providing solid groundwork for applying state-of-the-art algorithms.
       <br><br>Furthermore, I enjoy using my technical skills as a developer for streamlining and automatizing work pipelines to maximize my team's efficiency.
-      <br>While leading multilingual ASR and TTS projects, I not only developed the core models and project-specific anotation rules, but also built a company-internal RDBMS-based web service to allow efficient task assignment, <b>automatic</b> rule application, monitoring and reviewing. 
+      <br>While leading multilingual ASR and TTS projects, I went beyond developing core models and annotation rules, and built a RDBMS-based web application to enable scalable, stable and quality-assured data annotation projects.
       <br><br>
       I am interested in working in a dynamic environment to continue utilizing and widening my technical skills for building technologies that reach hundreds of millions of people world-wide. 
       
