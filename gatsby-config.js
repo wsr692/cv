@@ -17,9 +17,9 @@ module.exports = {
     about: `
       <p> I am a speech scientist and an  AI engineer with 2.5+ years of experience in commercial TTS and ASR. I received a PhD in English linguistics from Korea University with a doctoral research on using phonetic posteriorgram for selecting TTS training data. Since 2019, I have been a full-time research engineer for MediaZen Inc., Seoul, South Korea. 
       <br><br>
-      As much as I am fluent with innovative machine learning methods for building and improving speech technologies, I understand that in enterprise settings,</b>quality service is grounded in quality data</b>. I leverage my knowledge of linguistics and fluency in deep learning to generate and annotate speech and language data, providing solid groundwork for applying state-of-the-art algorithms.<br>Furthermore, I enjoy using my technical skills as a developer for streamlining and automatizing work pipelines to maximize my team's efficiency.
-      <br><br>
-      While leading multilingual ASR and TTS projects, I not only developed core models but defined the rules of annotation for 20+ data professionals and built RDBMS-based web service to allow efficient task assignment, automatic rule application, monitoring and reviewing. 
+      As much as I am adept with innovative machine learning methods for building speech technologies, I understand that in enterprise settings,<b>quality service is grounded in quality data</b>. I fully leverage my knowledge of linguistics and in deep learning to generate and annotate speech and language data, providing solid groundwork for applying state-of-the-art algorithms.
+      <br><br>Furthermore, I enjoy using my technical skills as a developer for streamlining and automatizing work pipelines to maximize my team's efficiency.
+      <br>While leading multilingual ASR and TTS projects, I not only developed the core models and project-specific anotation rules, but also built a company-internal RDBMS-based web service to allow efficient task assignment, <b>automatic</b> rule application, monitoring and reviewing. 
       <br><br>
       I am interested in working in a dynamic environment to continue utilizing and widening my technical skills for building technologies that reach hundreds of millions of people world-wide. 
       
@@ -104,8 +104,7 @@ module.exports = {
 
         <ul style="text-indent:-20px; margin-left:30px;">
         <em>Project Lead, <b>Multi-Worker Speech Annotation System</em></b>
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Facilitated speech data pipeline by developing a web application for real-time task assignment, automated rule
-        application, editor feedback and monitoring of annotation workers.</li>
+        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">Facilitated speech data pipeline by developing a web application for real-time rule checking, feedback, task assignment, monitoring of annotation workers.</li>
         <li style="list-style-position:inside;margin-bottom:10px;  text-indent: 10px;">Contributed to 4 private, 3 public data generation contracts (worth 8.2 billion gbp) by assuring 1000+ simultaneous
         worker connections and providing dashboards for real-time monitoring of annotation progress and quality.</li>
         </ul>`
@@ -166,7 +165,7 @@ module.exports = {
       }
 
     ],
-    interests: ['n/a'
+    interests: ['Unsupervised methods to speech learning'
       // "Speech",
       // "Programming",
       // "Soccer",
