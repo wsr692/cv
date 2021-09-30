@@ -32,7 +32,7 @@ module.exports = {
         when: "2018-2021",
         school: "Korea University, Seoul, South Korea",
         where: "",
-        thesis: `<p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>
+        thesis: `
         <ul>
         <li>
         Automatic evaluation of phone-level pronunciation accuracy of native and non-native English speech data, using DNN-HMM acoustic model.
