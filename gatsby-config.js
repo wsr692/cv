@@ -133,14 +133,14 @@ module.exports = {
         </ul>`
       },
       {
-        role: "Lecturer",
+        role: "Teaching Assistant",
         when: "Fall 2016",
         company: `Korea University`,
         moreInfo: "Responded to inquiries of 40+ undergraduate students  undergraduate English phonology course; reviewed exam questions, marked exams"
       },
 
       {
-        role: "Teaching Assistant",
+        role: "Teaching Assitant",
         when: "2016.1",
         company: `Korea University MATLAB winter program`,
         moreInfo: "Taught basics of digital signal processing and programming to 40+ undergraduate students for 4 weeks.",
