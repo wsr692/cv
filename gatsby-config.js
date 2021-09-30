@@ -21,7 +21,7 @@ module.exports = {
       <br><br>
       While leading multilingual ASR and TTS projects, I not only developed core models but defined the rules of annotation for 20+ data professionals and built RDBMS-based web service to allow efficient task assignment, automatic rule application, monitoring and reviewing. 
       <br><br>
-      I am interested in working in a dynamic environment to continue utilizing and widening my technical skills for building technologies that reach hundreds of millions of people worldwide. 
+      I am interested in working in a dynamic environment to continue utilizing and widening my technical skills for building technologies that reach hundreds of millions of people world-wide. 
       
       </p>
       `,
@@ -132,8 +132,8 @@ module.exports = {
       {
         role: "Teaching Assistant",
         when: "Fall 2016",
-        company: `Undergraduate English Phonology, Korea University`,
-        moreInfo: "Reviewed midterm and final exam questions; marked exams and responded to inquiries of 40+ undergraduate students."
+        company: `Korea University`,
+        moreInfo: "Responded to inquiries of 40+ undergraduate students  undergraduate English phonology course; reviewed exam questions, marked exams"
       },
 
       {
