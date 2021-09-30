@@ -17,7 +17,7 @@ module.exports = {
     about: `
       <p> I am a speech scientist and an AI engineer with 2.5+ years of experience in commercial TTS and ASR. My doctoral research was in <em>using phonetic posteriorgram for selecting TTS training data</em>. Since 2019, I have been a full-time research engineer for MediaZen Inc., Seoul, South Korea. 
       <br><br>
-      As much as I am adept with innovative machine learning methods for building speech technologies, I understand that in enterprise settings, <b>quality service is grounded in quality data</b>. I fully leverage my knowledge of linguistics and in deep learning to generate and annotate speech and language data, providing solid groundwork for applying state-of-the-art algorithms.
+      As much as I am adept with innovative machine learning methods for building speech technologies, I understand that in enterprise settings, <b>quality service is grounded in quality data</b>. I fully leverage my knowledge of linguistics and deep learning to generate and annotate speech and language data, providing solid groundwork for applying state-of-the-art algorithms.
       <br><br>Furthermore, I enjoy using my technical skills as a developer for streamlining and automatizing work pipelines to maximize my team's efficiency.
       <br>While leading multilingual ASR and TTS projects, I not only developed the core models and project-specific anotation rules, but also built a company-internal RDBMS-based web service to allow efficient task assignment, <b>automatic</b> rule application, monitoring and reviewing. 
       <br><br>
@@ -34,7 +34,7 @@ module.exports = {
         where: "Seoul, South Korea",
         title:"<p><em>Thesis: Phonetic Posterior-based Data Selection Strategies for English Speech Synthesis</em></p>",
         moreinfo: `
-        <ul style="text-indent:-20px; margin-left:30px;">
+        <ul style="text-indent:-20px; margin-left:-0.5em;">
         <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">
         Automatic evaluation of phone-level pronunciation accuracy of native and non-native English speech data, using DNN-HMM acoustic model.
       </li>
@@ -121,16 +121,16 @@ module.exports = {
         when: "2016.6 - 2019.6",
         company: `Mediazen Inc.`,
         where: "Seoul, South Korea",
-        moreInfo: `<ul style="text-indent:-20px; margin-left:20px;text-height:1em">
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">
+        moreInfo: `    <ul style="text-indent:-20px; margin-left:-0.5em;">
+        <li style="list-style-position:inside; margin-bottom:30px; text-indent: 10px;">
         Trained kaldi-based acoustic/language model for speech recognition.
         </li>
 
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:3px; text-indent: 10px;">
         Developed grapheme-to-phoneme conversion in Korean.
         </li>
 
-        <li style="list-style-position:inside; margin-bottom:10px; text-indent: 10px;">
+        <li style="list-style-position:inside; margin-bottom:3px; text-indent: 10px;">
         Developed Generalized End-to-End loss based speaker recognition system.
         </li>
         </ul>`
