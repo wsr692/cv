@@ -46,12 +46,9 @@ module.exports = {
           </li>
         </ul>`,
         
-      publications:`<ul><em>Publications</em>
-          <li>
-          Cho, Y. and Nam, H. (2021). A Comparison of L1 and L2 Speech Phonetic Posteriorgrams for Applications in Pronunciation Training. <em>Studies in Foreign Language Education</em>, 35(1), 293-304., </li>
-          <li>
-          Kim, J. E., Cho, Y., Cho, Y., Hong, Y., Kim, S., & Nam, H. (2020). The effects of l1-l2 phonological mappings on l2 phonological sensitivity. <em>Studies in Second Language Acquisition</em>, 42(5), 1041-1076.</li>
-        </ul> `,
+      publications:`<em>Publications</em><br>
+          Cho, Y. and Nam, H. (2021). A Comparison of L1 and L2 Speech Phonetic Posteriorgrams for Applications in Pronunciation Training. <em>Studies in Foreign Language Education</em>, 35(1), 293-304., <br>
+          Kim, J. E., Cho, Y., Cho, Y., Hong, Y., Kim, S., & Nam, H. (2020). The effects of l1-l2 phonological mappings on l2 phonological sensitivity. <em>Studies in Second Language Acquisition</em>, 42(5), 1041-1076.`
       },
       {
         degree: "M.A.",
@@ -62,11 +59,8 @@ module.exports = {
         moreinfo:"",
         title:"<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>",
         publications: `
-        <ul><em>Publications</em>
-        <li>
-          You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., Nam, H. (2016). Development of articulatory estimation model using deep neural network. <em>Phonetics and Speech Sciences</em>, 8(3), 31–38.
-          </li>
-        </ul>`
+        <em>Publications</em><br>
+          You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., Nam, H. (2016). Development of articulatory estimation model using deep neural network. <em>Phonetics and Speech Sciences</em>, 8(3), 31–38.`
       },
       {
         degree: "B.A.",
