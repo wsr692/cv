@@ -34,7 +34,7 @@ export default props => {
       org={item.school}
       moreInfo={
         item.title
-        +(item.degree=='Ph.D.' ? "<img src="+thesis_img+"width=\"500\" height=\"250\"/>" : "")
+        +(item.degree=='Ph.D.' ? "<img src="+thesis_img+" width=\"500\" height=\"250\"/>" : "")
         +item.moreinfo
         +(item.publications|| "")
       }
