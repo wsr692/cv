@@ -59,7 +59,7 @@ module.exports = {
         when: "2015-2018",
         school: `Korea University, Seoul, South Korea`,
         where: "",
-        title: `<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>
+        moreinfo: `<p>Thesis: Speaker Adaptation for Robust Speech Recognition</p>
         <ul><em>Publications</em>
         <li>
           You, H., Yang, H., Kang, J., Cho, Y., Hwang, S. H., Hong, Y., Nam, H. (2016). Development of articulatory estimation model using deep neural network. <em>Phonetics and Speech Sciences</em>, 8(3), 31–38.
@@ -72,7 +72,7 @@ module.exports = {
         when: "2009-2013",
         school: `Colgate University, New York, USA`,
         where: "",
-        title: `<p>Alumni Memorial Scholar (AMS); recipient of a 4-year academic scholarship</p>
+        moreinfo: `<p>Alumni Memorial Scholar (AMS); recipient of a 4-year academic scholarship</p>
         AMS Fellowship Research : <a href="http://blogs.colgate.edu/ams/2012/01/youngsun-cho-13-a-phonetics-focused-immersion-study-of-cantonese-in-hong-kong-china.html">link text
         Phonology-focused Immersion Study of Cantonese followed by an acoustic analysis of the learning process, China</a>`,
       

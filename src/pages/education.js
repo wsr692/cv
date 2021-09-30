@@ -34,7 +34,7 @@ export default props => {
       where={item.where}
       org={item.school}
       moreInfo={
-        item.title
+        (item.title||"")
         +(item.moreInfo|| "<img src="+thesis_img+"/>")
         +(item.thesis|| "")
         +(item.publications|| "")
