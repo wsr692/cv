@@ -12,9 +12,9 @@ module.exports = {
       { name: "linkedin", link: "https://www.linkedin.com/in/ysc0806" },
     ],
     about: `
-      <p> I am a speech scientist and an AI engineer with 2.5+ years of experience in <b>commercial TTS and ASR</b>. My <b>doctoral research</b> was in using <b>phonetic posteriorgrams for selecting TTS training data</b>. Since 2019, I have been a full-time research engineer for MediaZen Inc., Seoul, South Korea. 
+      <p> I am a speech scientist and an AI engineer with 2.5+ years of experience in <b>commercial TTS and ASR</b>. My <b>doctoral research</b> was on using <b>phonetic posteriorgrams for selecting TTS training data</b>. Since 2019, I have been a full-time research engineer for MediaZen Inc., Seoul, South Korea. 
       <br><br>
-      As much as I am adept with innovative machine learning methods for building speech technologies, I understand that in many enterprise settings, <b>quality service is grounded in quality data</b>. I fully leverage my knowledge of <b>linguistics</b> and <b>deep learning</b> to <b>generate and evaluate</b> speech and language data, providing solid groundwork for applying state-of-the-art algorithms.
+      As much as I am adept at innovative machine learning methods for building speech technologies, I understand that in many enterprise settings, <b>quality service is grounded in quality data</b>. I fully leverage my knowledge of <b>linguistics</b> and <b>deep learning</b> to <b>generate and evaluate</b> speech and language data, providing solid groundwork for applying state-of-the-art algorithms.
       <br><br>Furthermore, I enjoy using my technical skills as a developer for streamlining and automatizing data pipelines to maximize my team's efficiency.
       While leading multilingual ASR and TTS projects, I went beyond developing core models and annotation rules, and <b>built a RDBMS-based web application</b> to enable scalable, stable and quality-assured data annotation projects.
       <br><br>
