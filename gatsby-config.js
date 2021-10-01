@@ -137,7 +137,7 @@ module.exports = {
         role: "Teaching Assistant",
         when: "Fall 2016",
         company: `Korea University`,
-        moreInfo: "Responded to inquiries of 40+ undergraduate students  undergraduate English phonology course; reviewed exam questions, marked exams"
+        moreInfo: "Responded to inquiries of 40+ undergraduate students in an English phonology course; reviewed exam questions, marked exams."
       },
 
       {
