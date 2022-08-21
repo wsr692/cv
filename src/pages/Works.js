@@ -2,7 +2,6 @@ import React from "react"
 import Layout from "../components/layout"
 import Item from "../components/item"
 import { useStaticQuery, graphql } from "gatsby"
-import thesis_img from "../../static/thesis.png"
 
 export default props => {
   const data = useStaticQuery(graphql`
@@ -25,7 +24,7 @@ export default props => {
     }
   `)
 
-  const education = data.site.siteMetadata.education.map((item, index) => (
+  const work = data.site.siteMetadata.education.map((item, index) => (
     <Item
       key={index}
       name={(item.degree || "") + " " + (item.major ? "in " + item.major : "")}
@@ -43,8 +42,8 @@ export default props => {
 
   return (
     <Layout
-      pageTitle="Education"
-      pageDescription="Learn more about my education background"
+      pageTitle="Works"
+      pageDescription="Work Samples"
     >
       {education}
 
