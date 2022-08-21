@@ -12,15 +12,8 @@ module.exports = {
       { name: "linkedin", link: "https://www.linkedin.com/in/ysc0806" },
     ],
     about: `
-      <p> I am a speech scientist and an AI engineer with 2.5+ years of experience in <b>commercial TTS and ASR</b>. My <b>doctoral research</b> was on using <b>phonetic posteriorgrams for selecting TTS training data</b>. Since 2019, I have been a full-time research engineer for MediaZen Inc., Seoul, South Korea. 
-      <br><br>
-      As much as I am adept at innovative machine learning methods for building speech technologies, I understand that in many enterprise settings, <b>quality service is grounded in quality data</b>. I fully leverage my knowledge of <b>linguistics</b> and <b>deep learning</b> to <b>generate and evaluate</b> speech and language data, providing solid groundwork for applying state-of-the-art algorithms.
-      <br><br>Furthermore, I enjoy using my technical skills as a developer for streamlining and automatizing data pipelines to maximize my team's efficiency.
-      While leading multilingual ASR and TTS projects, I went beyond developing core models and annotation rules, and <b>built a RDBMS-based web application</b> to enable scalable, stable and quality-assured data annotation projects.
-      <br><br>
-      I am interested in working in a dynamic environment to continue utilizing and widening my technical skills for building technologies that reach hundreds of millions of people world-wide. 
-      
-      </p>
+      <p> 음성 인식과 합성 분야에서 연구와 개발을 해왔습니다. 다국어 음성 인식 시스템 개발을 리드한 경험을 가지고 있으며 2022년에 음성합성으로 박사학위를 취득했으며 현재는 어학 에듀테크 (EdTech) 분야에서 영어 문법, 어휘, 발음 평가 솔루션을 기획하고 개발하고 있습니다. <br><br> 
+      직접 훈련에 사용할 음성 인식용 데이터를 효율적으로 구축하기 위해, 데이터를 검수하는 웹서비스를 기획하고 운영한 이력이 있습니다. 불편한 것을 개선하는 일을 좋아하고, 특히나 조직 내에서 효율적인 업무 파이프라인을 구축하는 일에 관심이 많습니다. </p>
       `,
     education: [
       {
@@ -148,17 +141,17 @@ module.exports = {
       },
       {
         role: "Technical Writing, Freelancer",
-        when: "2015.1 - 2019.5",
+        when: "2015.1 - 2015.2 & 2017.4 - 2019.4",
         company: `LINE plus corp.`,
         where: "Seongnam, South Korea",
-        moreInfo: `Translated (Korean-to-English) internal documents and company-wise newsletters.`,
+        moreInfo: `Translation of (Korean-to-English) technical documents.`,
       },
       { 
         role: "Technical Localization",
         when: "2013.9-2014.5",
         company: `Lionbridge Technologies`,
         where: "Seoul, South Korea",
-        moreInfo: `Contributed to English localization of Lineage, a MMORPG game (revenue of £1.3 billion by 2013)`,
+        moreInfo: `Contributed to English localization of Lineage, a MMORPG game`,
       },
     ],
     skills: [
