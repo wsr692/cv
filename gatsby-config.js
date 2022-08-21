@@ -96,7 +96,7 @@ module.exports = {
         <ul style="text-indent:-20px; margin-left:30px;">
         <em><b>Project Lead, Multi-Worker Speech Annotation System</em></b>
         <li style="list-style-position:inside; margin-bottom:1px; text-indent: 0em;">Facilitated speech data pipeline by developing a web application for real-time rule checking, feedback, task assignment, monitoring of annotation workers.</li>
-        <li style="list-style-position:inside;margin-bottom:1px;  text-indent: 0em;">Contributed to 4 private, 3 public data generation contracts (worth £8.2 billion) by assuring 1000+ simultaneous
+        <li style="list-style-position:inside;margin-bottom:1px;  text-indent: 0em;">Contributed to 4 private, 3 public data generation contracts by assuring 1000+ simultaneous
         worker connections and providing dashboards for real-time monitoring of annotation progress and quality.</li>
         </ul>
         
